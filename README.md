@@ -62,7 +62,7 @@ Programs (Python 3.12, OR-Tools CP-SAT, pynauty; C with OpenMP), all in one Dock
   rows k=8, n=51 and n=52 (`proof/references/kurz-table1-check-1540.md`).
 - `data/`: the computed lists, as JSON (each code is a list of rows; a row is an integer whose bit j is coordinate j).
   They were first saved as Python pickles; `data/FROM-PICKLE.json` records each pickle's SHA-256 and the count.
-- `logs/`: output of the original runs on 2026-10-08 (stage 1 03:17 to about 05:50, stage 2 05:51 onward),
+- `logs/`: output of the original runs on 2026-10-08 (times in UTC, JST = UTC+9: stage 1 03:17 to about 05:50, stage 2 05:51 onward),
   and `logs/run_check.out`.
 
 ```
