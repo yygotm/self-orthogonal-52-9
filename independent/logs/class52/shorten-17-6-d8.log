@@ -1,0 +1,3 @@
+== 03:05:47 shorten N=16 K=5 DMIN=8: 1 input codes S from ['test-16-5.pkl']
+S 0/1 (zero cols 0, 2^6 reps): accepted 0, new classes 0, total 0, 1s
+== 03:05:48 doubly-even [17,6,>=8] (zero columns allowed): 0 classes -> test-17-6.pkl

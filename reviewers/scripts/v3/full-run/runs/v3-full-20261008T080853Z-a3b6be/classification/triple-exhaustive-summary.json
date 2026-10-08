@@ -1,0 +1,10 @@
+{
+  "status": "EXHAUSTED_NO_EXTENSION_FOR_FIXED_D",
+  "orbits": 695,
+  "tested_q2_representatives": 45553920,
+  "covered_q2_cosets": 17180000256,
+  "expected_cosets": 17180000256,
+  "maximum_distance_constraints_until_empty": 255,
+  "seconds": 9.272380799986422,
+  "numpy_version": "2.5.3"
+}

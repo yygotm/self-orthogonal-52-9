@@ -1,0 +1,17 @@
+g6 n 24 k 6 cosets 4096 T 4 C {'seen0': 1056, 'seen2': 992, 'hit0': 1055, 'hit2': 977} brute {'seen0': 1056, 'seen2': 992, 'hit0': 1055, 'hit2': 977} MATCH
+g6 n 24 k 6 cosets 4096 T 6 C {'seen0': 1056, 'seen2': 992, 'hit0': 989, 'hit2': 977} brute {'seen0': 1056, 'seen2': 992, 'hit0': 989, 'hit2': 977} MATCH
+g6 n 24 k 6 cosets 4096 T 8 C {'seen0': 1056, 'seen2': 992, 'hit0': 989, 'hit2': 495} brute {'seen0': 1056, 'seen2': 992, 'hit0': 989, 'hit2': 495} MATCH
+g6 n 24 k 6 cosets 4096 T 10 C {'seen0': 1056, 'seen2': 992, 'hit0': 52, 'hit2': 495} brute {'seen0': 1056, 'seen2': 992, 'hit0': 52, 'hit2': 495} MATCH
+g8 n 24 k 8 cosets 256 T 4 C {'seen0': 72, 'seen2': 56, 'hit0': 71, 'hit2': 50} brute {'seen0': 72, 'seen2': 56, 'hit0': 71, 'hit2': 50} MATCH
+g8 n 24 k 8 cosets 256 T 6 C {'seen0': 72, 'seen2': 56, 'hit0': 69, 'hit2': 50} brute {'seen0': 72, 'seen2': 56, 'hit0': 69, 'hit2': 50} MATCH
+g8 n 24 k 8 cosets 256 T 8 C {'seen0': 72, 'seen2': 56, 'hit0': 69, 'hit2': 22} brute {'seen0': 72, 'seen2': 56, 'hit0': 69, 'hit2': 22} MATCH
+g8 n 24 k 8 cosets 256 T 10 C {'seen0': 72, 'seen2': 56, 'hit0': 0, 'hit2': 22} brute {'seen0': 72, 'seen2': 56, 'hit0': 0, 'hit2': 22} MATCH
+g8z n 26 k 8 cosets 1024 T 4 C {'seen0': 256, 'seen2': 256, 'hit0': 255, 'hit2': 241} brute {'seen0': 256, 'seen2': 256, 'hit0': 255, 'hit2': 241} MATCH
+g8z n 26 k 8 cosets 1024 T 6 C {'seen0': 256, 'seen2': 256, 'hit0': 239, 'hit2': 241} brute {'seen0': 256, 'seen2': 256, 'hit0': 239, 'hit2': 241} MATCH
+g8z n 26 k 8 cosets 1024 T 8 C {'seen0': 256, 'seen2': 256, 'hit0': 239, 'hit2': 195} brute {'seen0': 256, 'seen2': 256, 'hit0': 239, 'hit2': 195} MATCH
+g8z n 26 k 8 cosets 1024 T 10 C {'seen0': 256, 'seen2': 256, 'hit0': 30, 'hit2': 195} brute {'seen0': 256, 'seen2': 256, 'hit0': 30, 'hit2': 195} MATCH
+g4 n 24 k 4 cosets 65536 T 4 C {'seen0': 16512, 'seen2': 16256, 'hit0': 16511, 'hit2': 16224} brute {'seen0': 16512, 'seen2': 16256, 'hit0': 16511, 'hit2': 16224} MATCH
+g4 n 24 k 4 cosets 65536 T 6 C {'seen0': 16512, 'seen2': 16256, 'hit0': 16002, 'hit2': 16224} brute {'seen0': 16512, 'seen2': 16256, 'hit0': 16002, 'hit2': 16224} MATCH
+g4 n 24 k 4 cosets 65536 T 8 C {'seen0': 16512, 'seen2': 16256, 'hit0': 16002, 'hit2': 11572} brute {'seen0': 16512, 'seen2': 16256, 'hit0': 16002, 'hit2': 11572} MATCH
+g4 n 24 k 4 cosets 65536 T 10 C {'seen0': 16512, 'seen2': 16256, 'hit0': 3831, 'hit2': 11572} brute {'seen0': 16512, 'seen2': 16256, 'hit0': 3831, 'hit2': 11572} MATCH
+ALL MATCH

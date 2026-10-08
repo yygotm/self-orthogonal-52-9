@@ -1,0 +1,4 @@
+D0 phase-1 optimum 0 feasible {30: Fraction(72, 1), 34: Fraction(16, 1), 22: Fraction(72, 1), 26: Fraction(96, 1)}
+D1 phase-1 optimum 0 feasible {26: Fraction(108, 1), 22: Fraction(84, 1), 30: Fraction(44, 1), 34: Fraction(20, 1)}
+D2 phase-1 optimum 0 feasible {30: Fraction(52, 1), 22: Fraction(84, 1), 26: Fraction(104, 1), 34: Fraction(16, 1)}
+control D0 coset 2mod4 >=18: 0 feasible

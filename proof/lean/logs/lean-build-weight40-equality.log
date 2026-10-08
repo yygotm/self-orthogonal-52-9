@@ -1,0 +1,92 @@
+ℹ [1/106] Replayed So52.LowerBound
+info: So52/LowerBound.lean:157:0: 'So52.encode_linear' depends on axioms: [propext, Quot.sound]
+info: So52/LowerBound.lean:158:0: 'So52.encode_injective' depends on axioms: [propext, Quot.sound]
+info: So52/LowerBound.lean:159:0: 'So52.self_orthogonal' depends on axioms: [propext, Quot.sound]
+info: So52/LowerBound.lean:160:0: 'So52.minimum_weight_lower' depends on axioms: [propext, Quot.sound]
+info: So52/LowerBound.lean:161:0: 'So52.minimum_weight_attained' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/LowerBound.lean:162:0: 'So52.pairwise_distance_lower' depends on axioms: [propext, Quot.sound]
+info: So52/LowerBound.lean:163:0: 'So52.lower_bound_certificate' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [631/799] Replayed So52.Reductions
+info: So52/Reductions.lean:94:0: 'So52.Support.weight_identity' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:95:0: 'So52.Support.half_weight_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:96:0: 'So52.Support.residual_kernel_obstruction' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:97:0: 'So52.Support.transvection_mod_four' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:98:0: 'So52.Support.transvection_weight_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:99:0: 'So52.Support.inverse_cutoff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:100:0: 'So52.Support.weight18_test' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:101:0: 'So52.Support.weight22_test' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:102:0: 'So52.Support.weight26_safe' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Reductions.lean:103:0: 'So52.Support.weight52_parseval_contradiction' depends on axioms: [propext, Quot.sound]
+info: So52/Reductions.lean:104:0: 'So52.Support.weight44_parseval_contradiction' depends on axioms: [propext, Quot.sound]
+ℹ [1681/1700] Replayed So52.Kernel
+info: So52/Kernel.lean:234:0: 'So52.Binary.q' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Kernel.lean:235:0: 'So52.Binary.q_eq_zero_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Kernel.lean:236:0: 'So52.Binary.doublyEvenKernel_finrank' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Kernel.lean:237:0: 'So52.Binary.odd_card' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Kernel.lean:238:0: 'So52.Binary.outside_kernel_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Kernel.lean:239:0: 'So52.Binary.reduction52' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [1682/1700] Replayed So52.Residual
+info: So52/Residual.lean:209:0: 'So52.Binary.residual_weight_identity' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:210:0: 'So52.Binary.residual_ker_eq_span' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:211:0: 'So52.Binary.residual_finrank' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:212:0: 'So52.Binary.residual_minWeight' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:213:0: 'So52.Binary.residual36_parameters' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:214:0: 'So52.Binary.residual40_parameters' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52/Residual.lean:215:0: 'So52.Binary.residual44_parameters' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [1683/1700] Replayed So52.EvenSpace
+info: So52/EvenSpace.lean:55:0: 'So52.Binary.residual44_eq_evenSpace' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [1684/1700] Replayed So52.WeightDistribution
+info: So52/WeightDistribution.lean:51:0: 'So52.Binary.sum_evenSpace_weight' depends on axioms: [propext, choice, Quot.sound]
+info: So52/WeightDistribution.lean:52:0: 'So52.Binary.even8_bound_sum' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1685/1700] Replayed So52.Fourier
+info: So52/Fourier.lean:86:0: 'So52.Binary.character_sum' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Fourier.lean:87:0: 'So52.Binary.fourier_parseval' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1686/1700] Replayed So52.Weight44
+info: So52/Weight44.lean:140:0: 'So52.Binary.residual44_lift' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight44.lean:141:0: 'So52.Binary.weight44_fourier_bound' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight44.lean:142:0: 'So52.Binary.no_weight44' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1687/1700] Replayed So52.Weight52
+info: So52/Weight52.lean:66:0: 'So52.Binary.weight52_fourier_sq' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight52.lean:67:0: 'So52.Binary.no_weight52' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1689/1700] Replayed So52.Weight48
+info: So52/Weight48.lean:131:0: 'So52.Binary.weight48_kernel_structure' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1690/1700] Replayed So52.FourierBlocks
+info: So52/FourierBlocks.lean:77:0: 'So52.Binary.weighted_parseval_blocks' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1692/1700] Replayed So52.Weight48Cosets
+info: So52/Weight48Cosets.lean:117:0: 'So52.Binary.weight48_coset2_nonconstant' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1693/1700] Replayed So52.Weight48Exclusion
+info: So52/Weight48Exclusion.lean:185:0: 'So52.Binary.weight48_coset4_constant_impossible' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight48Exclusion.lean:186:0: 'So52.Binary.no_weight48' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1694/1700] Replayed So52.Weight40
+info: So52/Weight40.lean:149:0: 'So52.Binary.weight40_integer_constraints_with_witnesses' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight40.lean:150:0: 'So52.Binary.weight40_integer_constraints' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1695/1700] Replayed So52.ResidualDual
+info: So52/ResidualDual.lean:184:0: 'So52.Binary.even12_card128_dual_minWeight_four' depends on axioms: [propext, choice, Quot.sound]
+info: So52/ResidualDual.lean:185:0: 'So52.Binary.weight40_residual_dual_minWeight_four' depends on axioms: [propext, choice, Quot.sound]
+info: So52/ResidualDual.lean:186:0: 'So52.Binary.weight40_residual_dual_minWeight' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1696/1700] Replayed So52.ResidualMoments
+info: So52/ResidualMoments.lean:123:0: 'So52.Binary.weight40_residual_moments' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1697/1700] Replayed So52.Section4
+info: So52/Section4.lean:24:0: 'So52.Binary.max_weight_le36_of_no_weight40' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [1698/1700] Built So52.Weight40Equality (18s)
+info: So52/Weight40Equality.lean:123:0: 'So52.Binary.weight40_moment_saturation' depends on axioms: [propext, choice, Quot.sound]
+info: So52/Weight40Equality.lean:124:0: 'So52.Binary.weight40_parseval_equality_with_witnesses' depends on axioms: [propext, choice, Quot.sound]
+ℹ [1699/1700] Built So52 (14s)
+info: So52.lean:27:0: 'So52.lower_bound_certificate' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:28:0: 'So52.Binary.no_weight44' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:29:0: 'So52.Binary.no_weight52' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:30:0: 'So52.Binary.no_weight48' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:31:0: 'So52.Binary.weight40_integer_constraints' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:32:0: 'So52.Binary.weight40_integer_constraints_with_witnesses' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:33:0: 'So52.Binary.max_weight_le36_of_no_weight40' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:34:0: 'So52.Binary.column_multiplicity_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:35:0: 'So52.Binary.collisionCount_eq_sum_multiplicity_sq' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:36:0: 'So52.Binary.even12_card128_dual_minWeight' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:37:0: 'So52.Binary.length12_card128_weight_moments' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:38:0: 'So52.Binary.weight40_residual_dual_minWeight' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:39:0: 'So52.Binary.weight40_residual_moments' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:40:0: 'So52.Binary.even12_card128_dual_minWeight_four' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:41:0: 'So52.Binary.weight40_residual_dual_minWeight_four' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:42:0: 'So52.Binary.weight40_moment_saturation' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: So52.lean:43:0: 'So52.Binary.weight40_parseval_equality_with_witnesses' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (1700 jobs).

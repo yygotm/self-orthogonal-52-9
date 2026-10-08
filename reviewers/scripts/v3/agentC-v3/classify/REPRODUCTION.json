@@ -1,0 +1,57 @@
+{
+  "complete": true,
+  "optimizer_called": false,
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "runs": [
+    {
+      "script": "residual36_cubics.py",
+      "exit_code": 0,
+      "seconds": 1.5875595999823418,
+      "sha256": "86a3fe4b484c5ea7e49d243595293c057d82678c4b51218abc3447041469ea37"
+    },
+    {
+      "script": "exact36.py",
+      "exit_code": 0,
+      "seconds": 2.5417444999911822,
+      "sha256": "80782cbd89a2110deb72d789e68eca18e96515f3e77f778878a098e7867e8065"
+    },
+    {
+      "script": "exact40.py",
+      "exit_code": 0,
+      "seconds": 0.7185562000086065,
+      "sha256": "3d2b28d0d8d63e9697a14e7db54486fb04a98c770e8213f25e91825dc68d8aa6"
+    },
+    {
+      "script": "normalized32_orbits.py",
+      "exit_code": 0,
+      "seconds": 6.643612200015923,
+      "sha256": "5c187c2a4dc0149a3c790e622432597fd7bf44c205ca4cf71ce843268354fce2"
+    },
+    {
+      "script": "normalized36_orbits.py",
+      "exit_code": 0,
+      "seconds": 7.300227699975949,
+      "sha256": "58fc18911b34159d70208314ae7dd913e175c90c8cb5a7b19cab654bb4e0475a"
+    },
+    {
+      "script": "triple_exhaustive.py",
+      "exit_code": 0,
+      "seconds": 10.198498699988704,
+      "sha256": "bbca578cae941678cb24b27277bfbdc86f6d385948fab6cd6d2e3d0adc3e2d60"
+    },
+    {
+      "script": "joint_switch_search.py",
+      "exit_code": 0,
+      "seconds": 688.5854784999974,
+      "sha256": "3dc4746a175ad9e1618293f417ae88a08d21db8a4f7c82511f27173fc3fb45bc"
+    },
+    {
+      "script": "audit_exact.py",
+      "exit_code": 0,
+      "seconds": 4.149931699997978,
+      "sha256": "b422812c7d395b6020cc073e7170741709f395b530eb2918e1446cc629e86c5c"
+    }
+  ],
+  "seconds": 721.7553022000066,
+  "scope": "All final enumerations; mathematical reductions and cited classification theorems are described in PROOF.md, not machine-formalized."
+}

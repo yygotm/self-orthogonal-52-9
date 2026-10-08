@@ -1,0 +1,11 @@
+F(0) 28600 = 28600
+F on 24..52: {24: -72, 28: -72, 32: -72, 36: -584, 40: -2120, 44: -5192, 48: -10312, 52: -17992}
+max F on 24..52 -72
+F(20) 440
+F even 20..52 {20: 440, 22: 88, 24: -72, 26: -104, 28: -72, 30: -40, 32: -72, 34: -232, 36: -584, 38: -1192, 40: -2120, 42: -3432, 44: -5192, 46: -7464, 48: -10312, 50: -13800, 52: -17992}
+lower code 512*(23B1+4B2+B3)= 0
+lower code B0..B4 [Fraction(1, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1037, 1)] all int>=0 True
+bound -8192
+D0: n=52 same_as_evidence=True rank8=True SO=True gens_doubly_even=True wd={0: 1, 24: 204, 32: 51} z=1 b=0 ones_in_D=False
+D1: n=52 same_as_evidence=True rank8=True SO=True gens_doubly_even=True wd={0: 1, 24: 172, 28: 32, 32: 51} z=0 b=0 ones_in_D=False
+D2: n=52 same_as_evidence=True rank8=True SO=True gens_doubly_even=True wd={0: 1, 24: 174, 28: 30, 32: 49, 36: 2} z=0 b=1 ones_in_D=False

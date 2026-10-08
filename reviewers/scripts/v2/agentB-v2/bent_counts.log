@@ -1,0 +1,5 @@
+4-var bent total 896  weight-6: 448  max degree 2
+pure quadratic bent L: 28
+per-L counts: [192]  total 5376
+3-var Walsh in {0,+-4}: 112  degrees [2]
+3-var functions with |Walsh| = 8 somewhere and degree <= 1: 16

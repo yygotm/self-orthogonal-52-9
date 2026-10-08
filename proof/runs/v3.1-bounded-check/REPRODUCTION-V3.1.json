@@ -1,0 +1,53 @@
+{
+  "version": "3.1",
+  "mode": "check",
+  "full_proof_reproduced": false,
+  "runs": [
+    {
+      "name": "evidence",
+      "argv": [
+        "<home>\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-B",
+        "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\verify_evidence.py"
+      ],
+      "cwd": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52",
+      "exit_code": 0,
+      "seconds": 0.30832459998782724
+    },
+    {
+      "name": "q0-certificate",
+      "argv": [
+        "<home>\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-B",
+        "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\verify_q0_certificate.py"
+      ],
+      "cwd": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52",
+      "exit_code": 0,
+      "seconds": 0.24464920000173151
+    },
+    {
+      "name": "direct-scan",
+      "argv": [
+        "<home>\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-B",
+        "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\direct_scan.py",
+        "--check",
+        "--backend",
+        "docker",
+        "--compiler",
+        "gcc",
+        "--threads",
+        "2",
+        "--out",
+        "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\runs\\v3.1-bounded-check\\direct"
+      ],
+      "cwd": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52",
+      "exit_code": 0,
+      "seconds": 35.437586200016085
+    }
+  ],
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "started_utc": "2026-10-08T08:20:22.558484+00:00",
+  "bounded_checks_passed": true,
+  "completed": true
+}

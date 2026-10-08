@@ -1,0 +1,731 @@
+{
+  "copies": [
+    {
+      "path": "evidence/agentC/cosets.c",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\cosets.c",
+      "sha256": "9a75a7a1f86438a15a214335dad65220d6ee70dc4f038d0724ca9976def40718",
+      "bytes": 1806
+    },
+    {
+      "path": "evidence/agentC/gen_hdr.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\gen_hdr.py",
+      "sha256": "ebe06b8e8998036e9e44be6305d0587107bd23875ae4ef6416c8206881633185",
+      "bytes": 2607
+    },
+    {
+      "path": "evidence/agentC/h0.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\h0.h",
+      "sha256": "1328a452f7bfc589c05dcc69858040f6fdc3e160dd8cc89882ab4b678c1d1b56",
+      "bytes": 5387
+    },
+    {
+      "path": "evidence/agentC/h1.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\h1.h",
+      "sha256": "d592033c25ce3ff2395a1871d68d5afba3de7ef088d7cff1b7dba3ce11617e62",
+      "bytes": 5402
+    },
+    {
+      "path": "evidence/agentC/h2.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\h2.h",
+      "sha256": "f890e4b6f6e1685fb440c4282c55bfda667083df30766d51445ae4e19c4d0105",
+      "bytes": 5402
+    },
+    {
+      "path": "evidence/agentC/run_d0_20.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\run_d0_20.log",
+      "sha256": "775d7295a79acb1e7bf74d55d9988f11a5292962272b44495db84f55d163f923",
+      "bytes": 99
+    },
+    {
+      "path": "evidence/agentC/run_d12_22.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC\\run_d12_22.log",
+      "sha256": "66f90acfa5730dea093365092d257fe81afa06eb7aea64dada1f29ae71ecab52",
+      "bytes": 180
+    },
+    {
+      "path": "evidence/named-rerun/basis-gpt0.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\basis-gpt0.h",
+      "sha256": "cac07e266a2b8162df0ad3151ceaa0c3acda7f90da9ca10cefc6a4c3b53750a0",
+      "bytes": 5719
+    },
+    {
+      "path": "evidence/named-rerun/basis-gpt1.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\basis-gpt1.h",
+      "sha256": "8f0113ebfd270b4cde694986af24b2e6f12ce124867eee397b6221b3575bf9fb",
+      "bytes": 5752
+    },
+    {
+      "path": "evidence/named-rerun/basis-gpt2.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\basis-gpt2.h",
+      "sha256": "83bc197f7b56a49b1be00227aa92629acba9f37bf599b58aa0826b40772c72a7",
+      "bytes": 5738
+    },
+    {
+      "path": "evidence/named-rerun/cos0-20.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\cos0-20.out",
+      "sha256": "775d7295a79acb1e7bf74d55d9988f11a5292962272b44495db84f55d163f923",
+      "bytes": 99
+    },
+    {
+      "path": "evidence/named-rerun/cos0-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\cos0-22.out",
+      "sha256": "4cb87ca36364e017ee60f8069360b00281edb5895f42c4c52d75faf9f1d370ab",
+      "bytes": 90
+    },
+    {
+      "path": "evidence/named-rerun/cos1-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\cos1-22.out",
+      "sha256": "4cb87ca36364e017ee60f8069360b00281edb5895f42c4c52d75faf9f1d370ab",
+      "bytes": 90
+    },
+    {
+      "path": "evidence/named-rerun/cos2-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\cos2-22.out",
+      "sha256": "4cb87ca36364e017ee60f8069360b00281edb5895f42c4c52d75faf9f1d370ab",
+      "bytes": 90
+    },
+    {
+      "path": "evidence/named-rerun/cosets.c",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\cosets.c",
+      "sha256": "9a75a7a1f86438a15a214335dad65220d6ee70dc4f038d0724ca9976def40718",
+      "bytes": 1806
+    },
+    {
+      "path": "evidence/named-rerun/D0.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\D0.txt",
+      "sha256": "ec10eec60846a870eb06fc74057ac82e5482ddafb0fb43f799ff2e0aec993f8e",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/named-rerun/D1.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\D1.txt",
+      "sha256": "6ca108cccac8c150e82fc01d05805a4c813a22c6505f2034f0b962e43947a9f4",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/named-rerun/D2.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\D2.txt",
+      "sha256": "289e4c97e1215abe4b78144026f75b59f419de62504fcf879a0f5755bdf44b06",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/named-rerun/ext0-20.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\ext0-20.out",
+      "sha256": "14eb386f3237fc04918ea9e4be73a1dc8a8b3fc730088c2835340296c71231c0",
+      "bytes": 115
+    },
+    {
+      "path": "evidence/named-rerun/ext0-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\ext0-22.out",
+      "sha256": "f3c2ddd145df94cb4fd0bdabf2999eef2fe4f5af916d82269d429e58154e71b2",
+      "bytes": 46
+    },
+    {
+      "path": "evidence/named-rerun/ext1-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\ext1-22.out",
+      "sha256": "f3c2ddd145df94cb4fd0bdabf2999eef2fe4f5af916d82269d429e58154e71b2",
+      "bytes": 46
+    },
+    {
+      "path": "evidence/named-rerun/ext2-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\ext2-22.out",
+      "sha256": "f3c2ddd145df94cb4fd0bdabf2999eef2fe4f5af916d82269d429e58154e71b2",
+      "bytes": 46
+    },
+    {
+      "path": "evidence/named-rerun/ext52x.c",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\ext52x.c",
+      "sha256": "26ac95cf2762515b99ee2c6839623ae6c7686aa8873776f27f4dc1dfc5df5b54",
+      "bytes": 1708
+    },
+    {
+      "path": "evidence/named-rerun/gen.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\gen.py",
+      "sha256": "4b63fc7a47792323c1ec68ac4d693064bbdce0da694e554aa1c10d6f9baab032",
+      "bytes": 2424
+    },
+    {
+      "path": "evidence/named-rerun/gen_hdr.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\gen_hdr.py",
+      "sha256": "ebe06b8e8998036e9e44be6305d0587107bd23875ae4ef6416c8206881633185",
+      "bytes": 2607
+    },
+    {
+      "path": "evidence/named-rerun/h0.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\h0.h",
+      "sha256": "1328a452f7bfc589c05dcc69858040f6fdc3e160dd8cc89882ab4b678c1d1b56",
+      "bytes": 5387
+    },
+    {
+      "path": "evidence/named-rerun/h1.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\h1.h",
+      "sha256": "d592033c25ce3ff2395a1871d68d5afba3de7ef088d7cff1b7dba3ce11617e62",
+      "bytes": 5402
+    },
+    {
+      "path": "evidence/named-rerun/h2.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\h2.h",
+      "sha256": "f890e4b6f6e1685fb440c4282c55bfda667083df30766d51445ae4e19c4d0105",
+      "bytes": 5402
+    },
+    {
+      "path": "evidence/named-rerun/run_all.sh",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\run_all.sh",
+      "sha256": "e4b962eeee07dfa31239a959127b8b7949ff805179a83329bbff09b7ca068caa",
+      "bytes": 446
+    },
+    {
+      "path": "evidence/named-rerun/times.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\v2\\run\\times.txt",
+      "sha256": "1355fc50fd1c36edb70801823f1389a80d0c7d9ffccad08594b70794548d6049",
+      "bytes": 165
+    },
+    {
+      "path": "evidence/ext52x/basis-gpt1.h",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\basis-gpt1.h",
+      "sha256": "8f0113ebfd270b4cde694986af24b2e6f12ce124867eee397b6221b3575bf9fb",
+      "bytes": 5752
+    },
+    {
+      "path": "evidence/ext52x/D-gpt0.txt",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\D-gpt0.txt",
+      "sha256": "ec10eec60846a870eb06fc74057ac82e5482ddafb0fb43f799ff2e0aec993f8e",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/ext52x/D-gpt1.txt",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\D-gpt1.txt",
+      "sha256": "6ca108cccac8c150e82fc01d05805a4c813a22c6505f2034f0b962e43947a9f4",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/ext52x/D-gpt2.txt",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\D-gpt2.txt",
+      "sha256": "289e4c97e1215abe4b78144026f75b59f419de62504fcf879a0f5755bdf44b06",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/ext52x/d20-gpt0.out",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\d20-gpt0.out",
+      "sha256": "955f10045ff1a00e788cacbc5826a18b398dfe34a36cb483fe6fc082d83b3fb8",
+      "bytes": 119
+    },
+    {
+      "path": "evidence/ext52x/d20.out",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\d20.out",
+      "sha256": "adcb54a7ebb4bec07dbc08927ac39caa12be4bed0ce66be47400b3c141de5daf",
+      "bytes": 115
+    },
+    {
+      "path": "evidence/ext52x/d22-gpt0.out",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\d22-gpt0.out",
+      "sha256": "b4124f22536e967d998cdc3bc6b936f47bbb9ed891f19b5fefe72a01a7775c3d",
+      "bytes": 47
+    },
+    {
+      "path": "evidence/ext52x/d22-gpt1.out",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\d22-gpt1.out",
+      "sha256": "b4124f22536e967d998cdc3bc6b936f47bbb9ed891f19b5fefe72a01a7775c3d",
+      "bytes": 47
+    },
+    {
+      "path": "evidence/ext52x/d22-gpt2.out",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\d22-gpt2.out",
+      "sha256": "b4124f22536e967d998cdc3bc6b936f47bbb9ed891f19b5fefe72a01a7775c3d",
+      "bytes": 47
+    },
+    {
+      "path": "evidence/ext52x/ext52x.c",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\ext52x.c",
+      "sha256": "26ac95cf2762515b99ee2c6839623ae6c7686aa8873776f27f4dc1dfc5df5b54",
+      "bytes": 1708
+    },
+    {
+      "path": "evidence/ext52x/gen.py",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\gen.py",
+      "sha256": "4b63fc7a47792323c1ec68ac4d693064bbdce0da694e554aa1c10d6f9baab032",
+      "bytes": 2424
+    },
+    {
+      "path": "evidence/ext52x/run_gpt.sh",
+      "source": "<repo>\\trials\\28-so-codes\\ext52x\\run_gpt.sh",
+      "sha256": "9069876b64275c67687ff62659a7b393f4088a0fdc2864bd3a5189d305adc206",
+      "bytes": 226
+    },
+    {
+      "path": "evidence/agentA-v2/check_headers.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\check_headers.log",
+      "sha256": "d88bdf2b89158177040f5e5ac25258e8566e2fbe251fc36dfddfb33cf97ac493",
+      "bytes": 768
+    },
+    {
+      "path": "evidence/agentA-v2/check_headers.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\check_headers.py",
+      "sha256": "e9f0333e27924af2aa5d15b3b61781e60bb4047fbd0f6edde52f6cba8092e31b",
+      "bytes": 1669
+    },
+    {
+      "path": "evidence/agentA-v2/checks_a2.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\checks_a2.log",
+      "sha256": "ac0ad599ee7fe7fda440f166b8437300ce9f6e74a778a43d953cad84e83cb0da",
+      "bytes": 603
+    },
+    {
+      "path": "evidence/agentA-v2/checks_a2.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\checks_a2.py",
+      "sha256": "a00bbbce1f5e819665375732dd6d3503787231ca8d8fd907c9f1667c50ac9b9f",
+      "bytes": 3686
+    },
+    {
+      "path": "evidence/agentA-v2/classes16-0.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\classes16-0.log",
+      "sha256": "f0dcf3f9f8b965084ee5747854631deeec875c1fe40e387c4e22a7a81ef292dc",
+      "bytes": 429
+    },
+    {
+      "path": "evidence/agentA-v2/classes16-14400.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\classes16-14400.log",
+      "sha256": "8b09c65e4ab77d32fa44f99842bbb62d10f9d2148717d2810462d15db54d456f",
+      "bytes": 403
+    },
+    {
+      "path": "evidence/agentA-v2/classes16-21600.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\classes16-21600.log",
+      "sha256": "a76a26eabe66ba5f112f62fcc3ef4a26a7a533463db871311ceaaf19a7e84dbd",
+      "bytes": 438
+    },
+    {
+      "path": "evidence/agentA-v2/classes16-7200.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\classes16-7200.log",
+      "sha256": "c2f5483a29369f31d6bfb9f6af1d02414cc8aa304949321edae4e52307a782a9",
+      "bytes": 437
+    },
+    {
+      "path": "evidence/agentA-v2/classes16.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\classes16.py",
+      "sha256": "3a0202241d1ef9f4444d053aee4d1d29800c99449c4b02e9716843a3698427e1",
+      "bytes": 3634
+    },
+    {
+      "path": "evidence/agentA-v2/hA0.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\hA0.h",
+      "sha256": "c8507a166883b188b64986049ee0bb26794a8393bf4982559a73ad82a0db8a9e",
+      "bytes": 772
+    },
+    {
+      "path": "evidence/agentA-v2/hA1.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\hA1.h",
+      "sha256": "a76b2c3b582c9f60f0901a2b638a05e699a5f55fbb95704101fab5962cb9c180",
+      "bytes": 774
+    },
+    {
+      "path": "evidence/agentA-v2/hA2.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\hA2.h",
+      "sha256": "37d37aa047603b54b99d9d1f6ceaf6298fc02976e7aa1445dc995a3d604fd8c4",
+      "bytes": 775
+    },
+    {
+      "path": "evidence/agentA-v2/mkbasis.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\mkbasis.py",
+      "sha256": "f13a7e3e2634c22bf09ba58e57f3a42c5a781b016d73a90d08b7e3489d20fef8",
+      "bytes": 1871
+    },
+    {
+      "path": "evidence/agentA-v2/run_scanA.sh",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\run_scanA.sh",
+      "sha256": "5904b6b0f81095480ded5a9b13d5b2d067ea9c07bc348365a55b95a849cb6d43",
+      "bytes": 347
+    },
+    {
+      "path": "evidence/agentA-v2/scanA-times.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\scanA-times.txt",
+      "sha256": "65172ef5f1cd1f2a7d1bd62819b435453542fb8ea7bb6cc1d2f9b16fdeee9319",
+      "bytes": 93
+    },
+    {
+      "path": "evidence/agentA-v2/scanA.c",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\scanA.c",
+      "sha256": "a22ec1b2eb76fc9db71207b2199d1ec5ad544362ccb16f9b8d72a910cdd8ae97",
+      "bytes": 1548
+    },
+    {
+      "path": "evidence/agentA-v2/scanA0-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\scanA0-22.out",
+      "sha256": "1a97fb8766ba7a6c79c7face4edb6045e732bc4d8d807d0cc7d12e3112e9de38",
+      "bytes": 116
+    },
+    {
+      "path": "evidence/agentA-v2/scanA1-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\scanA1-22.out",
+      "sha256": "1a97fb8766ba7a6c79c7face4edb6045e732bc4d8d807d0cc7d12e3112e9de38",
+      "bytes": 116
+    },
+    {
+      "path": "evidence/agentA-v2/scanA2-22.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA-v2\\scanA2-22.out",
+      "sha256": "1a97fb8766ba7a6c79c7face4edb6045e732bc4d8d807d0cc7d12e3112e9de38",
+      "bytes": 116
+    },
+    {
+      "path": "evidence/agentC-v2/hA0.h",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\hA0.h",
+      "sha256": "c8507a166883b188b64986049ee0bb26794a8393bf4982559a73ad82a0db8a9e",
+      "bytes": 772
+    },
+    {
+      "path": "evidence/agentC-v2/lp_cert.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_cert.log",
+      "sha256": "fd1d22d10e6cdada6080a542abc0e648a383b7c521b677c8c9d6c6fc670bdf12",
+      "bytes": 605
+    },
+    {
+      "path": "evidence/agentC-v2/lp_cert.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_cert.py",
+      "sha256": "a75e660c6fc27074f29ff14eeab0e32a7fb5dbd55e8b9838f4ed6dd128191907",
+      "bytes": 959
+    },
+    {
+      "path": "evidence/agentC-v2/lp_exact.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_exact.log",
+      "sha256": "5921a31db6be1f1383beaed36b401392fcd728df3f0755e3af5ba91a9f679906",
+      "bytes": 372
+    },
+    {
+      "path": "evidence/agentC-v2/lp_exact.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_exact.py",
+      "sha256": "e1728fe0d36dac2d40875d254260863090c2d21c60c415814fe37b39d89cf7ef",
+      "bytes": 3017
+    },
+    {
+      "path": "evidence/agentC-v2/lp_exact_ctrl.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_exact_ctrl.log",
+      "sha256": "5993cdd6b5dd75c9f33d639eb495225b0fe1e60c475a85e7f03575c650726d51",
+      "bytes": 174
+    },
+    {
+      "path": "evidence/agentC-v2/lp_exact_ctrl.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_exact_ctrl.py",
+      "sha256": "d0067e4a02c09e3be22489f8136479867cb88cde82dbef6f292bc17dd3020fe5",
+      "bytes": 813
+    },
+    {
+      "path": "evidence/agentC-v2/lp_minimal.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_minimal.log",
+      "sha256": "571841f87f20547a15b3af38b77650045cda7fe43b75ac5700bbd1009e3e5809",
+      "bytes": 112
+    },
+    {
+      "path": "evidence/agentC-v2/lp_minimal.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\lp_minimal.py",
+      "sha256": "7bfb4c6ff803532bec7ac82f93ae875eac178deccbb42932fa2288f37aa4dbd5",
+      "bytes": 693
+    },
+    {
+      "path": "evidence/agentC-v2/pos-docker.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\pos-docker.log",
+      "sha256": "3c9c838520b55586544df977df51252c5ba8172e44fdae2f4c6651414b4aa3c1",
+      "bytes": 223
+    },
+    {
+      "path": "evidence/agentC-v2/pos-times.txt",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\pos-times.txt",
+      "sha256": "6861fcae4fd6428cf0120681e3335b824787aefdfa3cef531dd56dbdeb838e0e",
+      "bytes": 18
+    },
+    {
+      "path": "evidence/agentC-v2/run_pos.sh",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\run_pos.sh",
+      "sha256": "cd1ac381da0c22ceb3eda861fcf32a0f95248122f8edf0fdbdf06b671c5ca84f",
+      "bytes": 179
+    },
+    {
+      "path": "evidence/agentC-v2/scanA.c",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\scanA.c",
+      "sha256": "a22ec1b2eb76fc9db71207b2199d1ec5ad544362ccb16f9b8d72a910cdd8ae97",
+      "bytes": 1548
+    },
+    {
+      "path": "evidence/agentC-v2/scanA0-20.out",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentC-v2\\scanA0-20.out",
+      "sha256": "4efae1c2f5a198f9119a3911aa6e5e3a2ee4eb4d99367a4e27b765c6c3a9847f",
+      "bytes": 125
+    },
+    {
+      "path": "evidence/agentB/a7_s3.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\a7_s3.log",
+      "sha256": "a792edb6aa987bd7ee7a15a89d19d3483cd00b0ee8fe313ab161a7231c429ffd",
+      "bytes": 117
+    },
+    {
+      "path": "evidence/agentB/a7_s5.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\a7_s5.log",
+      "sha256": "87b6a01fe28118a6783709380d915020d62df4953a72473a88c84a0b449b5f76",
+      "bytes": 117
+    },
+    {
+      "path": "evidence/agentB/check_cand32_valid.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\check_cand32_valid.py",
+      "sha256": "a61204b9d67817d2f1679dd4cb4dd8c3453d59d32bc5d35ed80ac112da6cd1a3",
+      "bytes": 535
+    },
+    {
+      "path": "evidence/agentB/classify16_7_6.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\classify16_7_6.py",
+      "sha256": "ba8a152fbd1cacc405ad631f91cfe80aac9f60941f4bf60e4861f633cf40dc42",
+      "bytes": 4952
+    },
+    {
+      "path": "evidence/agentB/count_all16.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\count_all16.py",
+      "sha256": "dbc85494ee4d88cf1a6c7fbae24f083e8729fd358439d4b2831206e08c9a2522",
+      "bytes": 1285
+    },
+    {
+      "path": "evidence/agentB/cubic_check.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\cubic_check.py",
+      "sha256": "af4c13557a8ead27dcbfb0105d945b4ca189413318cf8aa60c3be9ed4d89426d",
+      "bytes": 1131
+    },
+    {
+      "path": "evidence/agentB/parseval40.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\parseval40.py",
+      "sha256": "4dfffed1a67d24057da310acdc7cca36a0485fdf3e7bc3a77b153aae3f71fe24",
+      "bytes": 2367
+    },
+    {
+      "path": "evidence/agentB/th_equiv.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\th_equiv.py",
+      "sha256": "1b18511ceb3611b47662c5b6c28b70c20dbc232b588711d098f2c3e3eb69d897",
+      "bytes": 2211
+    },
+    {
+      "path": "evidence/agentB/verify_32_7_count.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\verify_32_7_count.py",
+      "sha256": "dd8b1922a9915c71670ffb6db8b5ad09b40b114426518b1ed7262c7b4de86483",
+      "bytes": 2017
+    },
+    {
+      "path": "evidence/agentB/verify_A7_count.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\verify_A7_count.py",
+      "sha256": "15a0c415a9195a73a1ac673b7847b9cd4b5618102a20b59aa1eb5f1b572a48c5",
+      "bytes": 2884
+    },
+    {
+      "path": "evidence/agentB/verify_orbits.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\verify_orbits.py",
+      "sha256": "1a44d579ef19c5f9e9e3ff35c76fa63dfaca45921b9e21b91f2c44e577628025",
+      "bytes": 7482
+    },
+    {
+      "path": "evidence/agentB/vo32.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\vo32.log",
+      "sha256": "5f9e0633634aa373579a7129563460e3f5cb2c9ff5f6bb6b6654db90941a021a",
+      "bytes": 1032
+    },
+    {
+      "path": "evidence/agentB/vo36.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\vo36.log",
+      "sha256": "dccd13c5088399ada6fa27a1cab629b7df2649dc06b2d99a531997598c953331",
+      "bytes": 576
+    },
+    {
+      "path": "evidence/agentB-v2/classify16_7_6.rerun.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB-v2\\classify16_7_6.rerun.log",
+      "sha256": "80c4205b63f2f23b7d7ffd25a4344a1fa276622f53834423992f7e6ea35d4697",
+      "bytes": 118
+    },
+    {
+      "path": "evidence/agentB-v2/count_all16.rerun.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB-v2\\count_all16.rerun.log",
+      "sha256": "a8a212c95c2bb4d2213d341d2117d4639408177e6dcdb3353e593dc713ef3c36",
+      "bytes": 217
+    },
+    {
+      "path": "evidence/agentB-v2/verify_headers.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB-v2\\verify_headers.log",
+      "sha256": "2cbe32240858ac000a387e5c7f0392a64d14c80ef988373f796c2b372ae70226",
+      "bytes": 1127
+    },
+    {
+      "path": "evidence/agentB-v2/verify_headers.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB-v2\\verify_headers.py",
+      "sha256": "b4a8f85785e95681ab66bfd4f608a1881183339a1c770be72df59af483615350",
+      "bytes": 3907
+    },
+    {
+      "path": "evidence/agentA/c_shard0.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\c_shard0.log",
+      "sha256": "6f3296b3edb7b54c28a445800a02acfedca765f4e643e1e324bce89f734e2a05",
+      "bytes": 327
+    },
+    {
+      "path": "evidence/agentA/c_shard1.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\c_shard1.log",
+      "sha256": "bcb7e703f9f4367b1057b2ce5af6b2a539d2e33b887b18d27282368cb8d2fac8",
+      "bytes": 327
+    },
+    {
+      "path": "evidence/agentA/c_shard2.log",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\c_shard2.log",
+      "sha256": "d63b98be9766493131dc4ce5cd70a08265fcb0d363d5fa0edad8c25fab2a8126",
+      "bytes": 327
+    },
+    {
+      "path": "evidence/agentA/check_cubics.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\check_cubics.py",
+      "sha256": "fcd5f69ee24abea36b7ebece68b8d6d3e0dbb96886e222e3775ce2ec7afa0003",
+      "bytes": 8373
+    },
+    {
+      "path": "evidence/agentA/check_rows.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\check_rows.py",
+      "sha256": "deb7679f65b514a76d9fd7edfcfc4dd0a0424e75c182ca21a0d712185e4adc4b",
+      "bytes": 4967
+    },
+    {
+      "path": "evidence/agentA/check_zerocol.py",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentA\\check_zerocol.py",
+      "sha256": "00f6af2d24462fc5a92635b409721fc9bc5452b1a02ca91d6967c080a182fcd5",
+      "bytes": 902
+    },
+    {
+      "path": "evidence/class52/classify.py",
+      "source": "<repo>\\trials\\28-so-codes\\class52\\classify.py",
+      "sha256": "9d0efaaf384c968a6e9706299c1f47b107775d35a84c87b75e385ff58109c839",
+      "bytes": 5556
+    },
+    {
+      "path": "evidence/class52/Dockerfile",
+      "source": "<repo>\\trials\\28-so-codes\\class52\\Dockerfile",
+      "sha256": "181d1cc6f6063ad912462bc6b8bff24e9276d02bfe2ebba4db2c030e5dc1329f",
+      "bytes": 199
+    },
+    {
+      "path": "evidence/class52/lift.c",
+      "source": "<repo>\\trials\\28-so-codes\\class52\\lift.c",
+      "sha256": "5a084a9869bd7eecd39a75d773a247d384fbb624e958b7cc44f996ef53799877",
+      "bytes": 2146
+    },
+    {
+      "path": "evidence/class52/log16-7.txt",
+      "source": "<repo>\\trials\\28-so-codes\\class52\\log16-7.txt",
+      "sha256": "60775ff7d76ed40ffe2d8cadcdb6a846ddb7e39d6dd9f13a18157db4a4bc49b3",
+      "bytes": 1679
+    },
+    {
+      "path": "review/v1/A1.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\A1.md",
+      "sha256": "1b31840a820e0e7830f115114a7169708e2e8f7fc5ce12b9f4eb8cfdd5c6d9e7",
+      "bytes": 6619
+    },
+    {
+      "path": "review/v1/A2.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\A2.md",
+      "sha256": "0db6c22b89dc51b82fd038ad0ff68d6e19f4116f8179e877cac20795a7a6853f",
+      "bytes": 7708
+    },
+    {
+      "path": "review/v1/B1.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\B1.md",
+      "sha256": "d42d35b41fcb9d93633b213f079c15970f0df0d6fac10103a8503bda8e26fdc0",
+      "bytes": 5578
+    },
+    {
+      "path": "review/v1/B2.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\B2.md",
+      "sha256": "1b6fe758ba8d55a9cedde05807cf6ab3efa5c23c1db206df196c6d2407421d0f",
+      "bytes": 8083
+    },
+    {
+      "path": "review/v1/C3-final.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\C3-final.md",
+      "sha256": "4131f6f3bd93f06fcde686306f6c31a85d353d1e759de0b0ddfbf1009a0acce6",
+      "bytes": 23606
+    },
+    {
+      "path": "review/v2/A1.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\A1.md",
+      "sha256": "2dd5ebaf93e4e1cc65a0100a18ea25615a7ffa5f218db9d752ab7bd1565ccc84",
+      "bytes": 20214
+    },
+    {
+      "path": "review/v2/A2.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\A2.md",
+      "sha256": "2a1195789bc5f0f639f772404ef89841db76ad16efbd6a5ae387d615fb3f7357",
+      "bytes": 19268
+    },
+    {
+      "path": "review/v2/B1.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\B1.md",
+      "sha256": "e51e085c39293289a2c07489675abc5ea0075bd9782e53a51c8e389955a1f3d8",
+      "bytes": 28742
+    },
+    {
+      "path": "review/v2/B2.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\B2.md",
+      "sha256": "5deac8957bbc4969f9185ea867e358606943d599f75882900a707e5ec5140b7f",
+      "bytes": 13219
+    },
+    {
+      "path": "review/v2/C-final.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\C-final.md",
+      "sha256": "ed782fb5e20fabd3b530966a0b8d0471487abed49662e47fb86c03d70bfa33c9",
+      "bytes": 36106
+    },
+    {
+      "path": "review/v2/STATUS.md",
+      "source": "<repo>\\trials\\28-so-codes\\review-gpt-so52\\v2\\STATUS.md",
+      "sha256": "87f0828551b8afae181a4dff2f00ac3cb704353c3a271f96cfc733a5f5574358",
+      "bytes": 1646
+    },
+    {
+      "path": "review/v1/revision-request.md",
+      "source": "<repo>\\exchange\\to-gpt\\20261008-1358-so52-review-ABC-revise.md",
+      "sha256": "0576c97bee3eea8dc824ab315c5dbc2ba2430f322f2e7366e4143ced69a0419f",
+      "bytes": 25399
+    },
+    {
+      "path": "references/kurz.pdf",
+      "source": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB\\dl\\kurz\\kurz.pdf",
+      "sha256": "12a3ff326167fc2db86c80c3006d5f070cfd56b425796784ce37f2f0efdaf734",
+      "bytes": 234064
+    },
+    {
+      "path": "evidence/so52/D-representative-0.txt",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\D-representative-0.txt",
+      "sha256": "ec10eec60846a870eb06fc74057ac82e5482ddafb0fb43f799ff2e0aec993f8e",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/so52/D-representative-1.txt",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\D-representative-1.txt",
+      "sha256": "6ca108cccac8c150e82fc01d05805a4c813a22c6505f2034f0b962e43947a9f4",
+      "bytes": 432
+    },
+    {
+      "path": "evidence/so52/D-representative-2.txt",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\D-representative-2.txt",
+      "sha256": "289e4c97e1215abe4b78144026f75b59f419de62504fcf879a0f5755bdf44b06",
+      "bytes": 432
+    },
+    {
+      "path": "history/v2/README.md",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\README.md",
+      "sha256": "f9c51b93a48b1b09d66c8640b723005e53e371d59f8a9949e232fe1dcc83eca5",
+      "bytes": 2528
+    },
+    {
+      "path": "history/v2/reproduce.py",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\reproduce.py",
+      "sha256": "65ace717f357810b8e8b6dd81807cf787c2594fdd023d4b880fa390fbb554f43",
+      "bytes": 1890
+    },
+    {
+      "path": "history/v2/MANIFEST.json",
+      "source": "<home>\\.codex\\visualizations\\2026\\09\\30\\<id>\\so52\\MANIFEST.json",
+      "sha256": "fef5653343085818e35d76e68f29667789fe29be43419935c619db5b33dd443f",
+      "bytes": 28614
+    }
+  ],
+  "note": "Byte-preserved snapshots copied for v3. External reviewer/repository source files were not modified. Local README, reproduce.py and MANIFEST snapshots precede the v3 edits. Historical scripts retain their original directory assumptions; see README.md and evidence/INDEX.md for portable entry points."
+}

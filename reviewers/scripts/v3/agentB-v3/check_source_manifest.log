@@ -1,0 +1,7 @@
+note: Byte-preserved snapshots copied for v3. External reviewer/repository source files were not modified. Local README, reproduce.py and MANIFEST snapshots precede the v3 edits. Historical scripts retain their original directory assumptions; see README.md and evidence/INDEX.md for portable entry points.
+copies 121
+SOURCE CHANGED history/v2/README.md <home>\.codex\visualizations\2026\09\30\<id>\so52\README.md
+SOURCE CHANGED history/v2/reproduce.py <home>\.codex\visualizations\2026\09\30\<id>\so52\reproduce.py
+SOURCE CHANGED history/v2/MANIFEST.json <home>\.codex\visualizations\2026\09\30\<id>\so52\MANIFEST.json
+copy ok 121 bad 0 missing 0
+original source still present & equal 118 differs 3 source not found 0

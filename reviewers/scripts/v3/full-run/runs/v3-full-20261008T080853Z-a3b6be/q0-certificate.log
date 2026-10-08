@@ -1,0 +1,1 @@
+{"certificate_verified": true, "coefficients": [23, 4, 1], "lower_bound_code_positive_control": true, "nonzero_weight_values": {"24": -72, "28": -72, "32": -72, "36": -584, "40": -2120, "44": -5192, "48": -10312, "52": -17992}, "solver_called": false, "upper_bound": -8192, "value_at_zero": 28600}

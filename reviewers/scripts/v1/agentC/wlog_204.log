@@ -1,0 +1,2 @@
+../so52/D-representative-0.txt seed 204 cost0 states 1 distinct invariants 1 time 98s
+  zero 1 b 0 wd ((0, 1), (24, 204), (32, 51)) mult Counter({1: 51})

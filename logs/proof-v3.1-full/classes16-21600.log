@@ -1,0 +1,10 @@
+solutions 28718
+global groups 3
+22000 classes so far 3 bad 0 3s
+24000 classes so far 3 bad 0 17s
+26000 classes so far 3 bad 0 30s
+28000 classes so far 3 bad 0 44s
+checked 7118 weight-distribution groups 3 codes NOT mapped to their group rep 0 codes with odd words 0 time 49s
+((0, 1), (6, 44), (8, 45), (10, 28), (12, 10))
+((0, 1), (6, 45), (8, 41), (10, 34), (12, 6), (14, 1))
+((0, 1), (6, 48), (8, 30), (10, 48), (16, 1))

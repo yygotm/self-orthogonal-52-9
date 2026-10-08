@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-08T16:11:18.5483242+09:00",
+  "scope": "So52/*.lean and So52.lean",
+  "forbiddenPattern": "\\b(sorry|admit|native_decide|bv_decide|unsafe)\\b|^\\s*axiom\\b",
+  "forbiddenMatches": [],
+  "changedFileResourceOptions": [],
+  "changedFileLocalInstances": [
+    {
+      "path": "So52/Weight40Equality.lean",
+      "line": 88,
+      "text": "noncomputable local instance {C : Code 52} (c : C) :"
+    }
+  ],
+  "localInstancePurpose": "Finite enumeration of actual residual linear functionals via Fintype.ofInjective; no mathematical assertion added."
+}

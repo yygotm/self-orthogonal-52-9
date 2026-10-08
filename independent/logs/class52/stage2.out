@@ -1,0 +1,68 @@
+== 05:51:26 shorten N=51 K=7 DMIN=24: 59 input codes S from ['T51.pkl']
+S 0/59 (zero cols 0, 2^37 reps): accepted 6, new classes 2, total 2, 33s
+S 1/59 (zero cols 0, 2^37 reps): accepted 8, new classes 0, total 2, 33s
+S 2/59 (zero cols 0, 2^37 reps): accepted 704, new classes 0, total 2, 35s
+S 3/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 37s
+S 4/59 (zero cols 0, 2^37 reps): accepted 6, new classes 0, total 2, 36s
+S 5/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 41s
+S 6/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 40s
+S 7/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 31s
+S 8/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 28s
+S 9/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 10/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 37s
+S 11/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 12/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 13/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 14/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 15/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 16/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 17/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 40s
+S 18/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 19/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 32s
+S 20/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 21/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 22/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 23/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 24/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 25/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 31s
+S 26/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 35s
+S 27/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 28/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 29/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 34s
+S 30/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 31s
+S 31/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 31s
+S 32/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 33s
+S 33/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 41s
+S 34/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 39s
+S 35/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 38s
+S 36/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 36s
+S 37/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 37s
+S 38/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 43s
+S 39/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 38s
+S 40/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 50s
+S 41/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 70s
+S 42/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 82s
+S 43/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 73s
+S 44/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 84s
+S 45/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 75s
+S 46/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 66s
+S 47/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 67s
+S 48/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 64s
+S 49/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 67s
+S 50/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 68s
+S 51/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 66s
+S 52/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 64s
+S 53/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 72s
+S 54/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 61s
+S 55/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 53s
+S 56/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 31s
+S 57/59 (zero cols 0, 2^37 reps): accepted 0, new classes 0, total 2, 30s
+S 58/59 (zero cols 1, 2^37 reps): accepted 204, new classes 1, total 3, 36s
+== 06:34:26 doubly-even [52,8,>=24] (zero columns allowed): 3 classes -> D52.pkl
+   zero cols 0, weights {0: 1, 24: 172, 28: 32, 32: 51}
+   zero cols 0, weights {0: 1, 24: 174, 28: 30, 32: 49, 36: 2}
+   zero cols 1, weights {0: 1, 24: 204, 32: 51}
+GPT D0: weights {0: 1, 24: 204, 32: 51} -> class 2
+GPT D1: weights {0: 1, 24: 172, 28: 32, 32: 51} -> class 0
+GPT D2: weights {0: 1, 24: 174, 28: 30, 32: 49, 36: 2} -> class 1
+EXIT 0

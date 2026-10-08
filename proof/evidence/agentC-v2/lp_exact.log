@@ -1,0 +1,4 @@
+doubly-even [52,9,>=24]: B_j>=A_j=True, A52<=1=True: phase-1 optimum = 1024/9 (INFEASIBLE)
+doubly-even [52,9,>=24]: B_j>=A_j=True, A52<=1=False: phase-1 optimum = 1024/9 (INFEASIBLE)
+doubly-even [52,9,>=24]: B_j>=A_j=False, A52<=1=True: phase-1 optimum = 1024/9 (INFEASIBLE)
+doubly-even [52,9,>=24]: B_j>=A_j=False, A52<=1=False: phase-1 optimum = 1024/9 (INFEASIBLE)

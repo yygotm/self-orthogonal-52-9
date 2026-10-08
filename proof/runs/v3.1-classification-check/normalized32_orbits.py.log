@@ -1,0 +1,4 @@
+{"raw": 344064, "quotient": 10752, "seconds": 0.8080058000050485}
+{"orbit": 0, "size": 10752, "remaining": 0, "seconds": 1.2352332999871578}
+{"second_rows_quotient": 24, "seconds": 1.2546675000048708}
+{"kernel_classes": 1, "class_sizes": [24], "certified_permutations": 6, "seconds": 2.503050400002394}

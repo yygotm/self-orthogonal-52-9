@@ -1,0 +1,52 @@
+  [3,2,>=2] any: m=2, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[3,2,>=2] any: 1 classes
+  [6,3,>=3] any: m=3, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[2,2,>=2] any: 0 classes
+[6,3,>=3] any: 1 classes
+  [12,4,>=6] any: m=6, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[5,3,>=4] any: 0 classes
+[4,3,>=4] any: 0 classes
+[3,3,>=5] any: 0 classes
+[12,4,>=6] any: 1 classes
+  [24,5,>=12] even: m=12, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[3,3,>=4] any: 0 classes
+[11,4,>=7] any: 0 classes
+[10,4,>=7] any: 0 classes
+[9,4,>=8] any: 0 classes
+[8,4,>=8] any: 0 classes
+[7,4,>=9] any: 0 classes
+[6,4,>=9] any: 0 classes
+[5,4,>=10] any: 0 classes
+[4,4,>=10] any: 0 classes
+[24,5,>=12] even: 1 classes
+  [48,6,>=24] de: m=24, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[9,4,>=7] any: 0 classes
+[7,4,>=8] any: 0 classes
+[5,4,>=9] any: 0 classes
+[23,5,>=13] even: 0 classes
+[8,4,>=7] any: 0 classes
+[6,4,>=8] any: 0 classes
+[4,4,>=9] any: 0 classes
+[22,5,>=13] even: 0 classes
+[7,4,>=7] any: 0 classes
+[5,4,>=8] any: 0 classes
+[21,5,>=14] even: 0 classes
+[6,4,>=7] any: 0 classes
+[4,4,>=8] any: 0 classes
+[20,5,>=14] even: 0 classes
+[19,5,>=15] even: 0 classes
+[18,5,>=15] even: 0 classes
+[17,5,>=16] even: 0 classes
+[16,5,>=16] even: 0 classes
+[15,5,>=17] even: 0 classes
+[14,5,>=17] even: 0 classes
+[13,5,>=18] even: 0 classes
+[12,5,>=18] even: 0 classes
+[11,5,>=19] even: 0 classes
+[10,5,>=19] even: 0 classes
+[9,5,>=20] even: 0 classes
+[8,5,>=20] even: 0 classes
+[7,5,>=21] even: 0 classes
+[6,5,>=21] even: 0 classes
+[5,5,>=22] even: 0 classes
+[48,6,>=24] de: 1 classes

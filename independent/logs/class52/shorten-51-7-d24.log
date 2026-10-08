@@ -1,0 +1,191 @@
+== 03:14:51 shorten N=50 K=6 DMIN=24: 1 input codes S from ['one-S.pkl']
+S 0/1 (zero cols 0, 2^38 reps): accepted 125568, new classes 5, total 5, 96s
+== 03:16:28 doubly-even [51,7,>=24] (zero columns allowed): 5 classes -> one-T.pkl
+   zero cols 0, weights {0: 1, 24: 92, 28: 16, 32: 19}
+   zero cols 0, weights {0: 1, 24: 93, 28: 15, 32: 18, 36: 1}
+   zero cols 0, weights {0: 1, 24: 100, 32: 27}
+   zero cols 0, weights {0: 1, 24: 87, 28: 28, 32: 11, 40: 1}
+   zero cols 0, weights {0: 1, 24: 93, 28: 15, 32: 18, 36: 1}
+== 03:17:23 shorten N=50 K=6 DMIN=24: 122 input codes S from ['class-50-6-24-de.pkl', 'class-49-6-24-de.pkl', 'class-48-6-24-de.pkl']
+S 0/122 (zero cols 0, 2^38 reps): accepted 125568, new classes 5, total 5, 90s
+S 1/122 (zero cols 0, 2^38 reps): accepted 26112, new classes 8, total 13, 68s
+S 2/122 (zero cols 0, 2^38 reps): accepted 29952, new classes 6, total 19, 74s
+S 3/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 19, 62s
+S 4/122 (zero cols 0, 2^38 reps): accepted 3840, new classes 1, total 20, 65s
+S 5/122 (zero cols 0, 2^38 reps): accepted 6432, new classes 0, total 20, 70s
+S 6/122 (zero cols 0, 2^38 reps): accepted 3456, new classes 0, total 20, 62s
+S 7/122 (zero cols 0, 2^38 reps): accepted 4608, new classes 1, total 21, 64s
+S 8/122 (zero cols 0, 2^38 reps): accepted 6720, new classes 0, total 21, 64s
+S 9/122 (zero cols 0, 2^38 reps): accepted 9152, new classes 1, total 22, 65s
+S 10/122 (zero cols 0, 2^38 reps): accepted 9216, new classes 2, total 24, 64s
+S 11/122 (zero cols 0, 2^38 reps): accepted 384, new classes 0, total 24, 65s
+S 12/122 (zero cols 0, 2^38 reps): accepted 1888, new classes 0, total 24, 62s
+S 13/122 (zero cols 0, 2^38 reps): accepted 49152, new classes 1, total 25, 137s
+S 14/122 (zero cols 0, 2^38 reps): accepted 23872, new classes 1, total 26, 91s
+S 15/122 (zero cols 0, 2^38 reps): accepted 2880, new classes 0, total 26, 65s
+S 16/122 (zero cols 0, 2^38 reps): accepted 6912, new classes 0, total 26, 64s
+S 17/122 (zero cols 0, 2^38 reps): accepted 576, new classes 0, total 26, 63s
+S 18/122 (zero cols 0, 2^38 reps): accepted 167936, new classes 4, total 30, 79s
+S 19/122 (zero cols 0, 2^38 reps): accepted 27392, new classes 3, total 33, 59s
+S 20/122 (zero cols 0, 2^38 reps): accepted 501248, new classes 2, total 35, 145s
+S 21/122 (zero cols 0, 2^38 reps): accepted 22528, new classes 1, total 36, 69s
+S 22/122 (zero cols 0, 2^38 reps): accepted 65536, new classes 2, total 38, 73s
+S 23/122 (zero cols 0, 2^38 reps): accepted 155648, new classes 1, total 39, 78s
+S 24/122 (zero cols 0, 2^38 reps): accepted 6656, new classes 0, total 39, 59s
+S 25/122 (zero cols 0, 2^38 reps): accepted 2048, new classes 0, total 39, 57s
+S 26/122 (zero cols 0, 2^38 reps): accepted 89088, new classes 0, total 39, 74s
+S 27/122 (zero cols 0, 2^38 reps): accepted 425984, new classes 2, total 41, 123s
+S 28/122 (zero cols 0, 2^38 reps): accepted 35840, new classes 5, total 46, 76s
+S 29/122 (zero cols 0, 2^38 reps): accepted 2304, new classes 0, total 46, 70s
+S 30/122 (zero cols 0, 2^38 reps): accepted 888, new classes 0, total 46, 66s
+S 31/122 (zero cols 0, 2^38 reps): accepted 40960, new classes 0, total 46, 66s
+S 32/122 (zero cols 0, 2^38 reps): accepted 21504, new classes 0, total 46, 63s
+S 33/122 (zero cols 0, 2^38 reps): accepted 22912, new classes 0, total 46, 61s
+S 34/122 (zero cols 0, 2^38 reps): accepted 25088, new classes 0, total 46, 60s
+S 35/122 (zero cols 0, 2^38 reps): accepted 17920, new classes 0, total 46, 58s
+S 36/122 (zero cols 0, 2^38 reps): accepted 3072, new classes 0, total 46, 50s
+S 37/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 46, 59s
+S 38/122 (zero cols 0, 2^38 reps): accepted 62464, new classes 7, total 53, 64s
+S 39/122 (zero cols 0, 2^38 reps): accepted 6400, new classes 0, total 53, 60s
+S 40/122 (zero cols 0, 2^38 reps): accepted 3072, new classes 0, total 53, 58s
+S 41/122 (zero cols 0, 2^38 reps): accepted 8640, new classes 0, total 53, 81s
+S 42/122 (zero cols 0, 2^38 reps): accepted 11392, new classes 1, total 54, 101s
+S 43/122 (zero cols 0, 2^38 reps): accepted 29696, new classes 0, total 54, 126s
+S 44/122 (zero cols 0, 2^38 reps): accepted 3328, new classes 0, total 54, 118s
+S 45/122 (zero cols 0, 2^38 reps): accepted 22784, new classes 0, total 54, 64s
+S 46/122 (zero cols 0, 2^38 reps): accepted 3712, new classes 0, total 54, 59s
+S 47/122 (zero cols 0, 2^38 reps): accepted 1536, new classes 0, total 54, 64s
+S 48/122 (zero cols 0, 2^38 reps): accepted 45056, new classes 0, total 54, 70s
+S 49/122 (zero cols 0, 2^38 reps): accepted 4096, new classes 0, total 54, 66s
+S 50/122 (zero cols 0, 2^38 reps): accepted 3584, new classes 0, total 54, 63s
+S 51/122 (zero cols 0, 2^38 reps): accepted 3072, new classes 0, total 54, 68s
+S 52/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 54, 67s
+S 53/122 (zero cols 0, 2^38 reps): accepted 11008, new classes 1, total 55, 69s
+S 54/122 (zero cols 0, 2^38 reps): accepted 6144, new classes 0, total 55, 61s
+S 55/122 (zero cols 0, 2^38 reps): accepted 106496, new classes 2, total 57, 80s
+S 56/122 (zero cols 0, 2^38 reps): accepted 3328, new classes 0, total 57, 65s
+S 57/122 (zero cols 0, 2^38 reps): accepted 6656, new classes 0, total 57, 69s
+S 58/122 (zero cols 0, 2^38 reps): accepted 5952, new classes 0, total 57, 70s
+S 59/122 (zero cols 0, 2^38 reps): accepted 5824, new classes 0, total 57, 69s
+S 60/122 (zero cols 0, 2^38 reps): accepted 8064, new classes 0, total 57, 60s
+S 61/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 57, 62s
+S 62/122 (zero cols 0, 2^38 reps): accepted 11008, new classes 0, total 57, 66s
+S 63/122 (zero cols 0, 2^38 reps): accepted 1728, new classes 0, total 57, 59s
+S 64/122 (zero cols 0, 2^38 reps): accepted 1984, new classes 0, total 57, 63s
+S 65/122 (zero cols 0, 2^38 reps): accepted 2560, new classes 0, total 57, 67s
+S 66/122 (zero cols 0, 2^38 reps): accepted 2048, new classes 0, total 57, 63s
+S 67/122 (zero cols 0, 2^38 reps): accepted 544, new classes 0, total 57, 63s
+S 68/122 (zero cols 0, 2^38 reps): accepted 1216, new classes 0, total 57, 62s
+S 69/122 (zero cols 0, 2^38 reps): accepted 3072, new classes 0, total 57, 63s
+S 70/122 (zero cols 0, 2^38 reps): accepted 768, new classes 0, total 57, 64s
+S 71/122 (zero cols 0, 2^38 reps): accepted 5248, new classes 0, total 57, 68s
+S 72/122 (zero cols 0, 2^38 reps): accepted 2176, new classes 0, total 57, 67s
+S 73/122 (zero cols 0, 2^38 reps): accepted 1136, new classes 0, total 57, 66s
+S 74/122 (zero cols 0, 2^38 reps): accepted 6080, new classes 0, total 57, 65s
+S 75/122 (zero cols 0, 2^38 reps): accepted 1408, new classes 0, total 57, 55s
+S 76/122 (zero cols 0, 2^38 reps): accepted 2048, new classes 0, total 57, 59s
+S 77/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 57, 60s
+S 78/122 (zero cols 0, 2^38 reps): accepted 3072, new classes 0, total 57, 56s
+S 79/122 (zero cols 0, 2^38 reps): accepted 512, new classes 0, total 57, 53s
+S 80/122 (zero cols 0, 2^38 reps): accepted 786432, new classes 1, total 58, 171s
+S 81/122 (zero cols 0, 2^38 reps): accepted 12288, new classes 0, total 58, 56s
+S 82/122 (zero cols 0, 2^38 reps): accepted 6656, new classes 0, total 58, 48s
+S 83/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 58, 54s
+S 84/122 (zero cols 0, 2^38 reps): accepted 112, new classes 0, total 58, 52s
+S 85/122 (zero cols 0, 2^38 reps): accepted 2992, new classes 0, total 58, 53s
+S 86/122 (zero cols 0, 2^38 reps): accepted 608, new classes 0, total 58, 53s
+S 87/122 (zero cols 0, 2^38 reps): accepted 512, new classes 0, total 58, 57s
+S 88/122 (zero cols 0, 2^38 reps): accepted 1280, new classes 0, total 58, 58s
+S 89/122 (zero cols 0, 2^38 reps): accepted 768, new classes 0, total 58, 62s
+S 90/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 58, 54s
+S 91/122 (zero cols 0, 2^38 reps): accepted 848, new classes 0, total 58, 65s
+S 92/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 58, 53s
+S 93/122 (zero cols 0, 2^38 reps): accepted 4608, new classes 0, total 58, 55s
+S 94/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 58, 58s
+S 95/122 (zero cols 0, 2^38 reps): accepted 736, new classes 0, total 58, 54s
+S 96/122 (zero cols 0, 2^38 reps): accepted 176, new classes 0, total 58, 54s
+S 97/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 58, 52s
+S 98/122 (zero cols 0, 2^38 reps): accepted 96, new classes 0, total 58, 57s
+S 99/122 (zero cols 0, 2^38 reps): accepted 5760, new classes 0, total 58, 54s
+S 100/122 (zero cols 0, 2^38 reps): accepted 2432, new classes 0, total 58, 54s
+S 101/122 (zero cols 0, 2^38 reps): accepted 512, new classes 0, total 58, 58s
+S 102/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 58, 52s
+S 103/122 (zero cols 0, 2^38 reps): accepted 1792, new classes 0, total 58, 52s
+S 104/122 (zero cols 0, 2^38 reps): accepted 1264, new classes 0, total 58, 50s
+S 105/122 (zero cols 0, 2^38 reps): accepted 1280, new classes 0, total 58, 60s
+S 106/122 (zero cols 0, 2^38 reps): accepted 640, new classes 0, total 58, 61s
+S 107/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 58, 61s
+S 108/122 (zero cols 0, 2^38 reps): accepted 304, new classes 0, total 58, 60s
+S 109/122 (zero cols 0, 2^38 reps): accepted 24576, new classes 0, total 58, 56s
+S 110/122 (zero cols 0, 2^38 reps): accepted 2048, new classes 0, total 58, 58s
+S 111/122 (zero cols 0, 2^38 reps): accepted 576, new classes 0, total 58, 56s
+S 112/122 (zero cols 0, 2^38 reps): accepted 384, new classes 0, total 58, 50s
+S 113/122 (zero cols 0, 2^38 reps): accepted 128, new classes 0, total 58, 56s
+S 114/122 (zero cols 0, 2^38 reps): accepted 256, new classes 0, total 58, 63s
+S 115/122 (zero cols 0, 2^38 reps): accepted 0, new classes 0, total 58, 61s
+S 116/122 (zero cols 0, 2^38 reps): accepted 29, new classes 0, total 58, 61s
+S 117/122 (zero cols 1, 2^38 reps): accepted 1073144, new classes 1, total 59, 213s
+S 118/122 (zero cols 1, 2^38 reps): accepted 110880, new classes 0, total 59, 76s
+S 119/122 (zero cols 1, 2^38 reps): accepted 43296, new classes 0, total 59, 70s
+S 120/122 (zero cols 1, 2^38 reps): accepted 38976, new classes 0, total 59, 76s
+S 121/122 (zero cols 2, 2^38 reps): accepted 2899456, new classes 0, total 59, 843s
+== 05:48:22 doubly-even [51,7,>=24] (zero columns allowed): 59 classes -> T51.pkl
+   zero cols 0, weights {0: 1, 24: 92, 28: 16, 32: 19}
+   zero cols 0, weights {0: 1, 24: 93, 28: 15, 32: 18, 36: 1}
+   zero cols 0, weights {0: 1, 24: 100, 32: 27}
+   zero cols 0, weights {0: 1, 24: 87, 28: 28, 32: 11, 40: 1}
+   zero cols 0, weights {0: 1, 24: 93, 28: 15, 32: 18, 36: 1}
+   zero cols 0, weights {0: 1, 24: 86, 28: 31, 32: 8, 36: 1, 40: 1}
+   zero cols 0, weights {0: 1, 24: 90, 28: 22, 32: 13, 36: 2}
+   zero cols 0, weights {0: 1, 24: 87, 28: 29, 32: 8, 36: 3}
+   zero cols 0, weights {0: 1, 24: 91, 28: 21, 32: 12, 36: 3}
+   zero cols 0, weights {0: 1, 24: 89, 28: 23, 32: 14, 36: 1}
+   zero cols 0, weights {0: 1, 24: 87, 28: 29, 32: 8, 36: 3}
+   zero cols 0, weights {0: 1, 24: 93, 28: 15, 32: 18, 36: 1}
+   zero cols 0, weights {0: 1, 24: 89, 28: 23, 32: 14, 36: 1}
+   zero cols 0, weights {0: 1, 24: 88, 28: 28, 32: 7, 36: 4}
+   zero cols 0, weights {0: 1, 24: 87, 28: 29, 32: 8, 36: 3}
+   zero cols 0, weights {0: 1, 24: 86, 28: 32, 32: 5, 36: 4}
+   zero cols 0, weights {0: 1, 24: 90, 28: 24, 32: 9, 36: 4}
+   zero cols 0, weights {0: 1, 24: 89, 28: 25, 32: 10, 36: 3}
+   zero cols 0, weights {0: 1, 24: 88, 28: 26, 32: 11, 36: 2}
+   zero cols 0, weights {0: 1, 24: 92, 28: 16, 32: 19}
+   zero cols 0, weights {0: 1, 24: 89, 28: 23, 32: 14, 36: 1}
+   zero cols 0, weights {0: 1, 24: 84, 28: 35, 32: 7, 44: 1}
+   zero cols 0, weights {0: 1, 24: 87, 28: 28, 32: 11, 40: 1}
+   zero cols 0, weights {0: 1, 24: 89, 28: 24, 32: 13, 40: 1}
+   zero cols 0, weights {0: 1, 24: 84, 28: 35, 32: 7, 44: 1}
+   zero cols 0, weights {0: 1, 24: 88, 28: 30, 32: 3, 36: 6}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 84, 28: 35, 32: 6, 36: 1, 40: 1}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 86, 28: 30, 32: 9, 36: 2}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 85, 28: 32, 32: 9, 40: 1}
+   zero cols 0, weights {0: 1, 24: 86, 28: 31, 32: 8, 36: 1, 40: 1}
+   zero cols 0, weights {0: 1, 24: 85, 28: 32, 32: 9, 40: 1}
+   zero cols 0, weights {0: 1, 24: 85, 28: 32, 32: 9, 40: 1}
+   zero cols 0, weights {0: 1, 24: 85, 28: 32, 32: 9, 40: 1}
+   zero cols 0, weights {0: 1, 24: 85, 28: 32, 32: 9, 40: 1}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 88, 28: 24, 32: 15}
+   zero cols 0, weights {0: 1, 24: 85, 28: 33, 32: 6, 36: 3}
+   zero cols 0, weights {0: 1, 24: 85, 28: 33, 32: 6, 36: 3}
+   zero cols 0, weights {0: 1, 24: 85, 28: 33, 32: 6, 36: 3}
+   zero cols 0, weights {0: 1, 24: 86, 28: 32, 32: 5, 36: 4}
+   zero cols 0, weights {0: 1, 24: 85, 28: 33, 32: 6, 36: 3}
+   zero cols 0, weights {0: 1, 24: 85, 28: 33, 32: 6, 36: 3}
+   zero cols 0, weights {0: 1, 24: 86, 28: 32, 32: 5, 36: 4}
+   zero cols 0, weights {0: 1, 24: 84, 28: 35, 32: 6, 36: 1, 40: 1}
+   zero cols 0, weights {0: 1, 24: 86, 28: 34, 32: 1, 36: 6}
+   zero cols 0, weights {0: 1, 24: 82, 28: 39, 32: 5, 44: 1}
+   zero cols 0, weights {0: 1, 24: 84, 28: 35, 32: 7, 44: 1}
+   zero cols 0, weights {0: 1, 24: 78, 28: 48, 48: 1}
+   zero cols 1, weights {0: 1, 24: 108, 32: 19}

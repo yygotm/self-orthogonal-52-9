@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "mode": "full",
+  "full_proof_reproduced": true,
+  "runs": [
+    {
+      "name": "evidence",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\verify_evidence.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full",
+      "exit_code": 0,
+      "seconds": 0.1419385999906808
+    },
+    {
+      "name": "q0-certificate",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\verify_q0_certificate.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full",
+      "exit_code": 0,
+      "seconds": 0.09077159999287687
+    },
+    {
+      "name": "classes16-0",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\evidence\\agentA-v2\\classes16.py",
+        "0",
+        "7200"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be",
+      "exit_code": 0,
+      "seconds": 111.45976130000781
+    },
+    {
+      "name": "classes16-7200",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\evidence\\agentA-v2\\classes16.py",
+        "7200",
+        "14400"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be",
+      "exit_code": 0,
+      "seconds": 127.0417041000037
+    },
+    {
+      "name": "classes16-14400",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\evidence\\agentA-v2\\classes16.py",
+        "14400",
+        "21600"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be",
+      "exit_code": 0,
+      "seconds": 132.4871676999901
+    },
+    {
+      "name": "classes16-21600",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\evidence\\agentA-v2\\classes16.py",
+        "21600",
+        "28718"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be",
+      "exit_code": 0,
+      "seconds": 129.25799690000713
+    },
+    {
+      "name": "residual36_cubics.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\residual36_cubics.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 0.6593517999863252
+    },
+    {
+      "name": "exact36.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\exact36.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 1.043366400001105
+    },
+    {
+      "name": "exact40.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\exact40.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 0.27891819999786094
+    },
+    {
+      "name": "normalized32_orbits.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\normalized32_orbits.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 2.667688299989095
+    },
+    {
+      "name": "normalized36_orbits.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\normalized36_orbits.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 2.4423040999972727
+    },
+    {
+      "name": "audit_exact.py",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification\\audit_exact.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\classification",
+      "exit_code": 0,
+      "seconds": 0.5914942999952473
+    },
+    {
+      "name": "direct-scan",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\direct_scan.py",
+        "--full",
+        "--backend",
+        "docker",
+        "--compiler",
+        "gcc",
+        "--threads",
+        "16",
+        "--out",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full\\runs\\v3-full-20261008T080853Z-a3b6be\\direct"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3-full",
+      "exit_code": 0,
+      "seconds": 321.1346559000085
+    }
+  ],
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "started_utc": "2026-10-08T08:08:53.359113+00:00",
+  "audit_legacy_results_rerun": false,
+  "completed": true
+}

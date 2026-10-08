@@ -1,0 +1,79 @@
+{
+  "mode": "full",
+  "full_scan_completed": true,
+  "backend": "docker",
+  "threads": 16,
+  "source_sha256": "2418eeb94c008968680562778e00c503a426ab2e33b287fc36fa0e4a42b0f411",
+  "inputs": {
+    "D-representative-0.txt": "ec10eec60846a870eb06fc74057ac82e5482ddafb0fb43f799ff2e0aec993f8e",
+    "D-representative-1.txt": "6ca108cccac8c150e82fc01d05805a4c813a22c6505f2034f0b962e43947a9f4",
+    "D-representative-2.txt": "289e4c97e1215abe4b78144026f75b59f419de62504fcf879a0f5755bdf44b06"
+  },
+  "runs": [
+    {
+      "n": 52,
+      "k": 8,
+      "quotient_dimension": 36,
+      "threshold": 22,
+      "start": 0,
+      "count": 68719476736,
+      "total": 68719476736,
+      "visited": 68719476736,
+      "seen0": 17179738112,
+      "seen2": 17180000256,
+      "hit0": 0,
+      "hit2": 0,
+      "label": "D0",
+      "expected_counts_matched": true
+    },
+    {
+      "n": 52,
+      "k": 8,
+      "quotient_dimension": 36,
+      "threshold": 20,
+      "start": 0,
+      "count": 68719476736,
+      "total": 68719476736,
+      "visited": 68719476736,
+      "seen0": 17179738112,
+      "seen2": 17180000256,
+      "hit0": 1138092541,
+      "hit2": 0,
+      "label": "D0",
+      "expected_counts_matched": true
+    },
+    {
+      "n": 52,
+      "k": 8,
+      "quotient_dimension": 36,
+      "threshold": 22,
+      "start": 0,
+      "count": 68719476736,
+      "total": 68719476736,
+      "visited": 68719476736,
+      "seen0": 17179738112,
+      "seen2": 17180000256,
+      "hit0": 0,
+      "hit2": 0,
+      "label": "D1",
+      "expected_counts_matched": true
+    },
+    {
+      "n": 52,
+      "k": 8,
+      "quotient_dimension": 36,
+      "threshold": 22,
+      "start": 0,
+      "count": 68719476736,
+      "total": 68719476736,
+      "visited": 68719476736,
+      "seen0": 17179738112,
+      "seen2": 17180000256,
+      "hit0": 0,
+      "hit2": 0,
+      "label": "D2",
+      "expected_counts_matched": true
+    }
+  ],
+  "scope": "3 kernels at T=22 and D0 at T=20, all 2^36 quotient representatives each."
+}

@@ -1,0 +1,20 @@
+{
+  "kernel_only": true,
+  "status": "OPTIMAL",
+  "seconds": 2.6177547000000003,
+  "check": {
+    "n": 52,
+    "k": 8,
+    "rank": 8,
+    "d": 24,
+    "weights": {
+      "0": 1,
+      "24": 172,
+      "28": 32,
+      "32": 51
+    },
+    "so": true,
+    "zeros": 0,
+    "repeats": {}
+  }
+}

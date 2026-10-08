@@ -1,0 +1,132 @@
+{
+  "version": "3.1",
+  "completed": true,
+  "classification_replayed": true,
+  "classification_checks": {
+    "normalized36": {
+      "first_rows": 5376,
+      "first_orbits": 1,
+      "second_rows": 36,
+      "classes": 1
+    },
+    "normalized32": {
+      "raw": 344064,
+      "first_rows": 10752,
+      "first_orbits": 1,
+      "second_rows": 24,
+      "classes": 1
+    },
+    "exact36": {
+      "models": 49,
+      "candidates": 5318,
+      "solutions": 0
+    },
+    "exact40": {
+      "branches": 2,
+      "cases": 4,
+      "candidates": 8448,
+      "solutions": 0
+    }
+  },
+  "classification_staged_files": [
+    "audit_exact.py",
+    "bent_kernel40.py",
+    "best_fixed_seed.py",
+    "direct_scan.py",
+    "exact36.py",
+    "exact40.py",
+    "fullsupport_extension.py",
+    "geometry.py",
+    "isometry_anneal.py",
+    "joint_residual36.py",
+    "joint_switch_search.py",
+    "kernel36.py",
+    "kernel40.py",
+    "kernel40_refined.py",
+    "kernel40_scip_verify.py",
+    "kernel40_small.py",
+    "kernel_neighbors.py",
+    "lift36_fixed_cubic.py",
+    "modular36_certificates.py",
+    "normalized32.py",
+    "normalized32_orbits.py",
+    "normalized36_orbits.py",
+    "package_proof.py",
+    "parent54_neighbors.py",
+    "parent_search.py",
+    "prescribed_q.py",
+    "reassess.py",
+    "reproduce.py",
+    "residual16.py",
+    "residual36_cubics.py",
+    "split_enumerator.py",
+    "test_reproduction_checks.py",
+    "transvection.py",
+    "transvection_target.py",
+    "triple_exhaustive.py",
+    "triple_search.py",
+    "two_step.py",
+    "verify_evidence.py",
+    "verify_q0_certificate.py",
+    "residual16-0.txt",
+    "residual16-1.txt",
+    "residual16-2.txt"
+  ],
+  "regression_tests": 4,
+  "negative_mutations": 10,
+  "coverage_recomputed": true,
+  "representatives_byte_identical": true,
+  "lower_bound_byte_identical": true,
+  "legacy_log_replayed": false,
+  "full_proof_reproduced": false,
+  "classes16_replayed": false,
+  "length52_full_scans_replayed": false,
+  "seconds": 9.718674500007182,
+  "runs": [
+    {
+      "name": "gate-regression",
+      "exit_code": 0,
+      "seconds": 0.466950200003339
+    },
+    {
+      "name": "coverage",
+      "exit_code": 0,
+      "seconds": 0.0785201000107918
+    },
+    {
+      "name": "residual36_cubics.py",
+      "exit_code": 0,
+      "seconds": 0.935600600001635
+    },
+    {
+      "name": "exact36.py",
+      "exit_code": 0,
+      "seconds": 1.2878123999980744
+    },
+    {
+      "name": "exact40.py",
+      "exit_code": 0,
+      "seconds": 0.4111360999813769
+    },
+    {
+      "name": "normalized32_orbits.py",
+      "exit_code": 0,
+      "seconds": 2.8060066000034567
+    },
+    {
+      "name": "normalized36_orbits.py",
+      "exit_code": 0,
+      "seconds": 2.726300300011644
+    },
+    {
+      "name": "audit_exact.py",
+      "exit_code": 0,
+      "seconds": 0.8800652000063565
+    }
+  ],
+  "tested_sources": {
+    "reproduce.py": "717f74c62e07a02b84f39ca053609f4af678186b2a0ac44d285681fb2206f81e",
+    "reassess.py": "f675df6870af25de3f0f315ab278688a86e35f89f2d29017b4e964d47802bcd2",
+    "test_reproduction_checks.py": "d3e4e26efd94f3fcf9fb9a4aa10ec8f853f88ac4ca0d925812f915b4da82a4e9"
+  }
+}

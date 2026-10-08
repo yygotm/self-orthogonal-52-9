@@ -1,0 +1,6 @@
+residual36_cubics: , "(64, 4)": 1, "(76, 8)": 16, "(68, 4)": 1, "(76, 4)": 3, "(72, 4)": 1, "(72, 1)": 2}, "seconds": 0.5414940000046045}
+exact36: tegral": 2}, "status": "EXHAUSTED"}{"models": 49, "exhaustive_candidates": 5318, "nonnegative_integer_solutions": 0}
+exact40: ated": 256, "valid": 0, "rejected": {"nonintegral": 256}}{"branches": 2, "cases": 4, "enumerated": 8448, "valid": 0}
+normalized32_orbits: 85739999823272}{"kernel_classes": 1, "class_sizes": [24], "certified_permutations": 6, "seconds": 4.675515099981567}
+normalized36_orbits:  "second_rows": 36, "seconds": 1.940136099990923}{"kernel_classes": 1, "sizes": [36], "seconds": 4.5684382999897934}
+audit_exact: xact36_candidates": 5318, "exact40_candidates": 8448, "extension_orbits_finished": 23, "extension_candidates": 985908}

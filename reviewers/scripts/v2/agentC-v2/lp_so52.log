@@ -1,0 +1,6 @@
+L1 doubly-even [52,9,>=24] (q=0 branch) LP INFEASIBLE 
+L1 doubly-even [52,9,>=24] (q=0 branch) IP INFEASIBLE 
+L2 SO [52,9,>=22] (all even weights >=22) LP OPTIMAL {22: 255.0, 30: 255.0, 52: 1.0}
+L2 SO [52,9,>=22] (all even weights >=22) IP OPTIMAL {22: 347.0, 30: 164.0}
+L3 SO [52,9,>=22] with q!=0 (255 words 0mod4, 256 words 2mod4) LP OPTIMAL {22: 139.718, 24: 109.594, 28: 138.366, 30: 116.282, 32: 6.042, 52: 0.998}
+L3 SO [52,9,>=22] with q!=0 (255 words 0mod4, 256 words 2mod4) IP OPTIMAL {22: 71.0, 24: 250.0, 30: 185.0, 36: 1.0, 40: 4.0}

@@ -1,0 +1,6 @@
+mode even solutions 28718 time 4.3s
+invariant groups 3
+group wd {0: 1, 6: 45, 8: 41, 10: 34, 12: 6, 14: 1} members 6910 classes 1
+TOTAL classes 1
+{0: 1, 6: 45, 8: 41, 10: 34, 12: 6, 14: 1} A rows ['000011111', '001100111', '010101011', '011010101', '100101101', '101011001', '110011010']
+elapsed 176.0s

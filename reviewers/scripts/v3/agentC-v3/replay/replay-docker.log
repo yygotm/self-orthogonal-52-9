@@ -1,0 +1,14 @@
+-rwxr-xr-x 1 root root 16288 Oct  8 08:02 cos0
+-rwxr-xr-x 1 root root 16288 Oct  8 08:02 cos1
+-rwxr-xr-x 1 root root 16288 Oct  8 08:02 cos2
+-rwxr-xr-x 1 root root 16384 Oct  8 08:02 ext0
+-rwxr-xr-x 1 root root 16384 Oct  8 08:02 ext1
+-rwxr-xr-x 1 root root 16384 Oct  8 08:02 ext2
+-rwxr-xr-x 1 root root 16224 Oct  8 08:02 scan0
+-rwxr-xr-x 1 root root 16224 Oct  8 08:02 scan1
+-rwxr-xr-x 1 root root 16224 Oct  8 08:02 scan2
+ext0 20 start Thu Oct  8 08:02:09 UTC 2026
+ext0 20 196s
+cos1 22 32s
+scan2 22 48s
+DONE Thu Oct 8 08:06:45 UTC 2026

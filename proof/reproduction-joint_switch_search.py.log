@@ -1,0 +1,5 @@
+{"h_count": 29376, "orbits": 23, "setup_seconds": 3.762579700007336}
+{"orbit": 0, "surviving_d18": 59160, "orbits_done": 1, "candidates_total": 59160, "seconds": 24.620467700005975}
+{"orbit": 9, "surviving_d18": 42014, "orbits_done": 10, "candidates_total": 442524, "seconds": 266.25642560000415}
+{"orbit": 19, "surviving_d18": 40976, "orbits_done": 20, "candidates_total": 861472, "seconds": 617.9047353999922}
+{"status": "EXHAUSTED_ALL_ORBITS", "orbits_done": 23, "orbits_total": 23, "h_count": 29376, "candidates_total": 985908, "seconds": 687.4855462000123}

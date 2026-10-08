@@ -1,0 +1,9 @@
+test_archived_positive (__main__.ClassificationGateTests.test_archived_positive) ... ok
+test_counterexamples_rejected (__main__.ClassificationGateTests.test_counterexamples_rejected) ... ok
+test_fresh_stage_has_only_code_and_inputs (__main__.ClassificationGateTests.test_fresh_stage_has_only_code_and_inputs) ... ok
+test_missing_output_rejected (__main__.ClassificationGateTests.test_missing_output_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.190s
+
+OK

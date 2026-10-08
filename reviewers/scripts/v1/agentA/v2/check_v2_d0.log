@@ -1,0 +1,16 @@
+D0 weight distribution {0: 1, 24: 204, 32: 51} support 
+D0 nonzero coordinates 51 (coordinate 51 is the zero column)
+triples 17 partition True
+dim(E cap D0perp)= 26
+quotient dim 18
+orbits under <shift, x->2x> 695
+D-representative-0.txt spans the same code as cyclic D0: True
+even cosets covered: 0 mod 4 17179738112 == 2^34-2^17 ? True ; 2 mod 4 17180000256 == 2^34+2^17 ? True
+0mod4_ge20 1138092541
+0mod4_ge24 0
+2mod4_ge18 10997819424
+2mod4_ge22 0
+match C/ext52x control 1138092541: True
+match step-1 / author 10997819424: True
+sec 58.1
+exit 0

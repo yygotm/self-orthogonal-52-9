@@ -1,0 +1,21 @@
+{
+  "D": {
+    "n": 52,
+    "k": 8,
+    "rank": 8,
+    "d": 24,
+    "weights": {
+      "0": 1,
+      "24": 172,
+      "28": 32,
+      "32": 51
+    },
+    "so": true,
+    "zeros": 0,
+    "repeats": {}
+  },
+  "h": 2251816993685511,
+  "status": "UNKNOWN",
+  "seconds": 60.0252058,
+  "stats": "CpSolverResponse summary:\nstatus: UNKNOWN\nobjective: 0\nbest_bound: 0\nintegers: 348\nbooleans: 44\nconflicts: 20192\nbranches: 56299\npropagations: 31029\ninteger_propagations: 3010083\nrestarts: 110\nlp_iterations: 810827\nwalltime: 60.0252\nusertime: 60.0252\ndeterministic_time: 179.459\ngap_integral: 0\n"
+}

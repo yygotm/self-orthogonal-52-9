@@ -1,0 +1,13 @@
+{"case": "36", "seventh_rows": 5376, "eighth_rows": 36, "gen_s": 1.7}
+{"eighth_rows_equiv_to_rep": 36, "bad": 0, "t": 59.8}
+{"tested": 500, "bad": 0, "t": 60.0}
+{"tested": 1000, "bad": 0, "t": 60.2}
+{"tested": 1500, "bad": 0, "t": 60.4}
+{"tested": 2000, "bad": 0, "t": 60.7}
+{"tested": 2500, "bad": 0, "t": 60.9}
+{"tested": 3000, "bad": 0, "t": 61.4}
+{"tested": 3500, "bad": 0, "t": 61.8}
+{"tested": 4000, "bad": 0, "t": 62.2}
+{"tested": 4500, "bad": 0, "t": 62.4}
+{"tested": 5000, "bad": 0, "t": 62.6}
+{"seventh_tested": 5376, "seventh_not_equiv": 0, "t": 62.8}

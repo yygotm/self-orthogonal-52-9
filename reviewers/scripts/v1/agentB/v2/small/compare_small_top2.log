@@ -1,0 +1,4 @@
+s30z n 30 zero_col 1 T 6 cosets.c [3992, 3992, 57] [4096, 2387, 2387] ext52x 8088 brute [3992, 3992, 57] [4096, 2387, 2387] 8088 OK
+s30z n 30 zero_col 1 T 8 cosets.c [3992, 57, 57] [2387, 2387, 0] ext52x 6379 brute [3992, 57, 57] [2387, 2387, 0] 6379 OK
+s30z n 30 zero_col 1 T 10 cosets.c [57, 57, 0] [2387, 0, 0] ext52x 2444 brute [57, 57, 0] [2387, 0, 0] 2444 OK
+ALL MATCH

@@ -1,0 +1,370 @@
+[
+  {
+    "index": 2,
+    "orbit": 0,
+    "weight": 56,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.6532885
+  },
+  {
+    "index": 2,
+    "orbit": 1,
+    "weight": 68,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.2375761
+  },
+  {
+    "index": 2,
+    "orbit": 2,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1676872
+  },
+  {
+    "index": 2,
+    "orbit": 3,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.16412100000000002
+  },
+  {
+    "index": 2,
+    "orbit": 4,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.22630860000000003
+  },
+  {
+    "index": 2,
+    "orbit": 5,
+    "weight": 64,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1666183
+  },
+  {
+    "index": 2,
+    "orbit": 6,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1672158
+  },
+  {
+    "index": 2,
+    "orbit": 7,
+    "weight": 64,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.3512775
+  },
+  {
+    "index": 2,
+    "orbit": 8,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1608853
+  },
+  {
+    "index": 2,
+    "orbit": 9,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.18322470000000002
+  },
+  {
+    "index": 2,
+    "orbit": 10,
+    "weight": 68,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.16104970000000002
+  },
+  {
+    "index": 2,
+    "orbit": 11,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.19117230000000002
+  },
+  {
+    "index": 2,
+    "orbit": 12,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1506435
+  },
+  {
+    "index": 2,
+    "orbit": 13,
+    "weight": 68,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.3962777
+  },
+  {
+    "index": 2,
+    "orbit": 14,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.2051484
+  },
+  {
+    "index": 2,
+    "orbit": 15,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.17598180000000002
+  },
+  {
+    "index": 2,
+    "orbit": 16,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1762671
+  },
+  {
+    "index": 2,
+    "orbit": 17,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1911788
+  },
+  {
+    "index": 2,
+    "orbit": 18,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1753761
+  },
+  {
+    "index": 2,
+    "orbit": 19,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1768294
+  },
+  {
+    "index": 2,
+    "orbit": 20,
+    "weight": 68,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.33478820000000004
+  },
+  {
+    "index": 2,
+    "orbit": 21,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1602179
+  },
+  {
+    "index": 2,
+    "orbit": 22,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.23744210000000002
+  },
+  {
+    "index": 2,
+    "orbit": 23,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1712524
+  },
+  {
+    "index": 2,
+    "orbit": 24,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1605775
+  },
+  {
+    "index": 2,
+    "orbit": 25,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1781763
+  },
+  {
+    "index": 2,
+    "orbit": 26,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1650674
+  },
+  {
+    "index": 2,
+    "orbit": 27,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.16669740000000002
+  },
+  {
+    "index": 2,
+    "orbit": 28,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.17779360000000002
+  },
+  {
+    "index": 2,
+    "orbit": 29,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1355889
+  },
+  {
+    "index": 2,
+    "orbit": 30,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.150146
+  },
+  {
+    "index": 2,
+    "orbit": 31,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1646638
+  },
+  {
+    "index": 2,
+    "orbit": 32,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.25582920000000003
+  },
+  {
+    "index": 2,
+    "orbit": 33,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.20935250000000002
+  },
+  {
+    "index": 2,
+    "orbit": 34,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.2029969
+  },
+  {
+    "index": 2,
+    "orbit": 35,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.195887
+  },
+  {
+    "index": 2,
+    "orbit": 36,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1607627
+  },
+  {
+    "index": 2,
+    "orbit": 37,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.2273183
+  },
+  {
+    "index": 2,
+    "orbit": 38,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.23901470000000002
+  },
+  {
+    "index": 2,
+    "orbit": 39,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1296826
+  },
+  {
+    "index": 2,
+    "orbit": 40,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.13510450000000002
+  },
+  {
+    "index": 2,
+    "orbit": 41,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1645957
+  },
+  {
+    "index": 2,
+    "orbit": 42,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.5667609
+  },
+  {
+    "index": 2,
+    "orbit": 43,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.16386430000000002
+  },
+  {
+    "index": 2,
+    "orbit": 44,
+    "weight": 76,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.1485215
+  },
+  {
+    "index": 2,
+    "orbit": 45,
+    "weight": 72,
+    "solver": "CP-SAT",
+    "status": "INFEASIBLE",
+    "seconds": 0.2449935
+  }
+]

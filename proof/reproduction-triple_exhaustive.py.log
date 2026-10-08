@@ -1,0 +1,15 @@
+{"orbits_done": 1, "tested_q2_representatives": 65280, "covered_q2_cosets": 65280, "seconds": 0.6617948999919463}
+{"orbits_done": 51, "tested_q2_representatives": 3343616, "covered_q2_cosets": 1156852992, "seconds": 1.3257668000005651}
+{"orbits_done": 101, "tested_q2_representatives": 6620416, "covered_q2_cosets": 2306512128, "seconds": 1.898079200007487}
+{"orbits_done": 151, "tested_q2_representatives": 9897216, "covered_q2_cosets": 3630024960, "seconds": 2.5112636999983806}
+{"orbits_done": 201, "tested_q2_representatives": 13171968, "covered_q2_cosets": 4966123776, "seconds": 3.051765499985777}
+{"orbits_done": 251, "tested_q2_representatives": 16450304, "covered_q2_cosets": 6263420160, "seconds": 3.6221760000044014}
+{"orbits_done": 301, "tested_q2_representatives": 19729152, "covered_q2_cosets": 7581057792, "seconds": 4.206801899999846}
+{"orbits_done": 351, "tested_q2_representatives": 23006976, "covered_q2_cosets": 8831169792, "seconds": 4.862867299991194}
+{"orbits_done": 401, "tested_q2_representatives": 26282240, "covered_q2_cosets": 10100683008, "seconds": 5.549558300001081}
+{"orbits_done": 451, "tested_q2_representatives": 29558528, "covered_q2_cosets": 11370300672, "seconds": 6.117725399992196}
+{"orbits_done": 501, "tested_q2_representatives": 32835840, "covered_q2_cosets": 12553304832, "seconds": 6.764876800007187}
+{"orbits_done": 551, "tested_q2_representatives": 36113152, "covered_q2_cosets": 13813561344, "seconds": 7.428551599994535}
+{"orbits_done": 601, "tested_q2_representatives": 39390464, "covered_q2_cosets": 15123965952, "seconds": 8.143893400003435}
+{"orbits_done": 651, "tested_q2_representatives": 42667264, "covered_q2_cosets": 16360447488, "seconds": 8.76811189998989}
+{"status": "EXHAUSTED_NO_EXTENSION_FOR_FIXED_D", "orbits": 695, "tested_q2_representatives": 45553920, "covered_q2_cosets": 17180000256, "expected_cosets": 17180000256, "maximum_distance_constraints_until_empty": 255, "seconds": 9.272380799986422, "numpy_version": "2.5.3"}

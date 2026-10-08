@@ -1,0 +1,11 @@
+D0 printed v 3f80000ff3e: in D0^perp True, wt 20, coset min 20
+D0 printed v 6d03400f65f: in D0^perp True, wt 20, coset min 20
+D0 printed v 6f80000fed7: in D0^perp True, wt 20, coset min 20
+D0 printed v 7f00c003daf: in D0^perp True, wt 20, coset min 20
+D0 printed v 6b01400f76f: in D0^perp True, wt 20, coset min 20
+D0 printed v 3e83000fd9e: in D0^perp True, wt 20, coset min 20
+D0 printed v 3f80800ffd1: in D0^perp True, wt 20, coset min 20
+D0 printed v 7e01000bebf: in D0^perp True, wt 20, coset min 20
+D0 random even cosets: 0 mod 4 -> {8: 23, 12: 4605, 16: 88504, 20: 6590}  2 mod 4 -> {10: 326, 14: 35711, 18: 64241}
+D1 random even cosets: 0 mod 4 -> {8: 18, 12: 4693, 16: 92441, 20: 3179}  2 mod 4 -> {10: 370, 14: 36138, 18: 63161}
+D2 random even cosets: 0 mod 4 -> {8: 18, 12: 4653, 16: 91941, 20: 3293}  2 mod 4 -> {10: 360, 14: 36337, 18: 63398}

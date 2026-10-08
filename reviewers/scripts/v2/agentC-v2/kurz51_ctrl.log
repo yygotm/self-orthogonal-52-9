@@ -1,0 +1,4 @@
+<home>\AppData\Local\Temp\claude\H--Projects-open-problems\<id>\scratchpad\agentC-v2\kurz52_cpsat.py:3: SyntaxWarning: invalid escape sequence '\{'
+  Column multiset m: F2^8\{0} -> {0..3}; for every nonzero message u,
+N=51 A32=51 status=OPTIMAL wall=1.6s
+weights [24, 32] sum m 51

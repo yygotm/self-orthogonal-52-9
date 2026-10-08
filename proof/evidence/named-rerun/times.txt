@@ -1,0 +1,10 @@
+cosets D0 T=22 72s
+ext52x D0 d=22 61s
+cosets D1 T=22 67s
+ext52x D1 d=22 57s
+cosets D2 T=22 70s
+ext52x D2 d=22 66s
+DONE
+cosets D0 T=20 257s
+ext52x D0 d=20 175s
+DONE2

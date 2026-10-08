@@ -1,0 +1,10 @@
+Kurz row k=1 (multisets, d>=24): {24: 1, 32: 1, 40: 1, 48: 1}
+Kurz row k=2 (multisets, d>=24): {36: 1, 40: 1, 44: 2, 48: 3, 52: 3}
+Kurz row k=3 (multisets, d>=24): {42: 1, 44: 1, 46: 2, 48: 4, 50: 3, 52: 6, 54: 8}
+D0: weights {0: 1, 24: 204, 32: 51} zerocols=1 b=0 A32+A36=51
+D1: weights {0: 1, 24: 172, 28: 32, 32: 51} zerocols=0 b=0 A32+A36=51
+D2: weights {0: 1, 24: 174, 28: 30, 32: 49, 36: 2} zerocols=0 b=1 A32+A36=51
+q=0 double count: 511*51 = 26061  /255 = 511/5
+A24-only constraint solutions count: 505
+f=0: A24=188 A32=67 2b=8 b=4
+Griesmer g(8,28)=58 g(8,24)=50 g(9,24)=51 g(8,32)=65

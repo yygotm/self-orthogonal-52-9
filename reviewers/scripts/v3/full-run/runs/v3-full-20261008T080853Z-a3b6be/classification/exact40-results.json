@@ -1,0 +1,62 @@
+[
+  {
+    "deleted": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "cubic_dimension": 8,
+    "gauge_dimension": 7,
+    "cases": [
+      {
+        "a": 0,
+        "status": "EXHAUSTED",
+        "binary_dimension": 12,
+        "enumerated": 4096,
+        "valid": 0,
+        "rejected": {
+          "not_binary": 1328,
+          "nonintegral": 2768
+        }
+      },
+      {
+        "a": 16987894452993024,
+        "status": "EXHAUSTED",
+        "binary_dimension": 12,
+        "enumerated": 4096,
+        "valid": 0,
+        "rejected": {
+          "nonintegral": 4032,
+          "not_binary": 64
+        }
+      }
+    ]
+  },
+  {
+    "deleted": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "cubic_dimension": 8,
+    "gauge_dimension": 7,
+    "cases": [
+      {
+        "a": 0,
+        "status": "MODULAR_CONTRADICTION"
+      },
+      {
+        "a": 12266779318997259776,
+        "status": "EXHAUSTED",
+        "binary_dimension": 8,
+        "enumerated": 256,
+        "valid": 0,
+        "rejected": {
+          "nonintegral": 256
+        }
+      }
+    ]
+  }
+]

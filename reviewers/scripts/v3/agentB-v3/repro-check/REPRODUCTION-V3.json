@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "mode": "check",
+  "full_proof_reproduced": false,
+  "runs": [
+    {
+      "name": "evidence",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3\\verify_evidence.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3",
+      "exit_code": 0,
+      "seconds": 0.14770520001184195
+    },
+    {
+      "name": "q0-certificate",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3\\verify_q0_certificate.py"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3",
+      "exit_code": 0,
+      "seconds": 0.09844100000918843
+    },
+    {
+      "name": "direct-scan",
+      "argv": [
+        "<home>\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+        "-B",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3\\direct_scan.py",
+        "--check",
+        "--backend",
+        "docker",
+        "--compiler",
+        "gcc",
+        "--threads",
+        "2",
+        "--out",
+        "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\agentB-v3\\repro-check\\direct"
+      ],
+      "cwd": "<home>\\AppData\\Local\\Temp\\claude\\H--Projects-open-problems\\<id>\\scratchpad\\so52-v3",
+      "exit_code": 0,
+      "seconds": 8.565587199991569
+    }
+  ],
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "started_utc": "2026-10-08T07:47:38.899948+00:00",
+  "bounded_checks_passed": true,
+  "completed": true
+}

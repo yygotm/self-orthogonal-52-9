@@ -1,0 +1,4 @@
+== 03:05:44 shorten N=15 K=4 DMIN=8: 1 input codes S from ['class-15-4-8-de.pkl', 'class-14-4-8-de.pkl']
+S 0/1 (zero cols 0, 2^7 reps): accepted 1, new classes 1, total 1, 1s
+== 03:05:45 doubly-even [16,5,>=8] (zero columns allowed): 1 classes -> test-16-5.pkl
+   zero cols 0, weights {0: 1, 8: 30, 16: 1}

@@ -1,0 +1,47 @@
+{
+ "D52.json": {
+  "from_pickle": "D52.pkl",
+  "pickle_sha256": "cf5cea6b1a6d5138fbab718d4e877fe1505f9415adec1f6482e4ff950e279e3d",
+  "codes": 3
+ },
+ "T51.json": {
+  "from_pickle": "T51.pkl",
+  "pickle_sha256": "482c6f7ebd2a934de2da883f43927d8eb0a7711e4f1d44cc8870ffb03eda405d",
+  "codes": 59
+ },
+ "class-14-4-8-de.json": {
+  "from_pickle": "class-14-4-8-de.pkl",
+  "pickle_sha256": "ec0a6ccf9debf1c16781445c4b9106080d00478b0559469336db7c7b7b9711c8",
+  "codes": 0
+ },
+ "class-15-4-8-de.json": {
+  "from_pickle": "class-15-4-8-de.pkl",
+  "pickle_sha256": "c7f9a52f884742d3b24c6a27a3ebcd45e9cf50954bd13d91da93b23edcbde98b",
+  "codes": 1
+ },
+ "class-16-6-6-any.json": {
+  "from_pickle": "class-16-6-6-any.pkl",
+  "pickle_sha256": "99d9728962034ee83c480af456ee7f111c2e18fb24aa6335db759af51b26ed81",
+  "codes": 180
+ },
+ "class-26-5-12-even.json": {
+  "from_pickle": "class-26-5-12-even.pkl",
+  "pickle_sha256": "61781e706eebdd27916ce16d52e6131efbcccdb77149ce0be4cd8f4e05dee195",
+  "codes": 92
+ },
+ "class-48-6-24-de.json": {
+  "from_pickle": "class-48-6-24-de.pkl",
+  "pickle_sha256": "8009468bcfdee0a02be7a3efe5c9819b9cf2fd97e773dba94c295259f195fa71",
+  "codes": 1
+ },
+ "class-49-6-24-de.json": {
+  "from_pickle": "class-49-6-24-de.pkl",
+  "pickle_sha256": "63b203a247e72f1925012fa0004984c907f978301c1f664cac9cf99efca1dfed",
+  "codes": 4
+ },
+ "class-50-6-24-de.json": {
+  "from_pickle": "class-50-6-24-de.pkl",
+  "pickle_sha256": "767ae260312d7c91f66da63ab9623b6f5ed4500e1954ffd8934f5318d880e2bd",
+  "codes": 117
+ }
+}

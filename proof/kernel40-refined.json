@@ -1,0 +1,98 @@
+[
+  {
+    "case": 0,
+    "choices": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.4437182
+  },
+  {
+    "case": 1,
+    "choices": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.5917704
+  },
+  {
+    "case": 2,
+    "choices": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.6837806000000001
+  },
+  {
+    "case": 3,
+    "choices": [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.5604572
+  },
+  {
+    "case": 4,
+    "choices": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.4309989
+  },
+  {
+    "case": 5,
+    "choices": [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.4240898
+  },
+  {
+    "case": 6,
+    "choices": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.5304163000000001
+  },
+  {
+    "case": 7,
+    "choices": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "status": "INFEASIBLE",
+    "seconds": 0.3828786
+  }
+]

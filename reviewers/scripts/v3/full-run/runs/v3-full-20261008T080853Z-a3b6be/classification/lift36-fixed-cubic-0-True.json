@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "orbit": 0,
+    "weight": 48,
+    "solver": "SCIP",
+    "status": "INFEASIBLE",
+    "seconds": 1.355
+  },
+  {
+    "index": 0,
+    "orbit": 1,
+    "weight": 56,
+    "solver": "SCIP",
+    "status": "INFEASIBLE",
+    "seconds": 0.598
+  },
+  {
+    "orbit": 2,
+    "weight": 72,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 3,
+    "weight": 68,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 4,
+    "weight": 76,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 5,
+    "weight": 68,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 6,
+    "weight": 72,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 7,
+    "weight": 76,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 8,
+    "weight": 68,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "orbit": 9,
+    "weight": 76,
+    "status": "EXCLUDED_MOMENT_BOUND"
+  },
+  {
+    "index": 0,
+    "orbit": 10,
+    "weight": 64,
+    "solver": "SCIP",
+    "status": "INFEASIBLE",
+    "seconds": 0.604
+  }
+]

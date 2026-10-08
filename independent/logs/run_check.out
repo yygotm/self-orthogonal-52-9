@@ -1,0 +1,31 @@
+== 1. the bundled data: dimension, doubly-even, d >= 24, pairwise inequivalent, counts, weight distributions
+class-48-6-24-de.json: 1 pairwise inequivalent doubly-even [48,6,>=24] codes
+class-49-6-24-de.json: 4 pairwise inequivalent doubly-even [49,6,>=24] codes
+class-50-6-24-de.json: 117 pairwise inequivalent doubly-even [50,6,>=24] codes
+T51.json: 59 pairwise inequivalent doubly-even [51,7,>=24] codes
+D52.json: 3 pairwise inequivalent doubly-even [52,8,>=24] codes
+D52.json weight distributions: D0, D1, D2 as stated
+author representatives D-gpt0..2: each equivalent to one class of D52.json
+check_data: OK
+== 2. which of these codes are 8-divisible (input to the Kurz Table 1 cross-check, see README)
+D52.json 3 8-div by (neff,d): {(51, 24): 1}
+T51.json 59 8-div by (neff,d): {(50, 24): 1, (51, 24): 1}
+class-48-6-24-de.json 1 8-div by (neff,d): {(48, 24): 1}
+class-49-6-24-de.json 4 8-div by (neff,d): {(49, 24): 1}
+class-50-6-24-de.json 117 8-div by (neff,d): {(50, 24): 2}
+== 3. classify.py against brute force on small parameters
+(7, 4, 2) 15 15 OK
+(8, 4, 3) 5 5 OK
+(9, 4, 4) 4 4 OK
+(10, 4, 4) 19 19 OK
+(11, 4, 5) 1 1 OK
+== 4. shorten.py on a case with a known answer: doubly-even [16,5,8] -> 1 class (RM(1,4)), [17,6,8] -> 0
+[16,5,8]: 1  [17,6,8]: 0
+== 5. S for n = 48, 49 recomputed from scratch and compared with data/
+48 6 24 de 1
+49 6 24 de 4
+n=48: recomputed 1 classes = data
+n=49: recomputed 4 classes = data
+== 6. ext52x: headers regenerate byte-equal from D-gpt*.txt, and the scanner compiles
+headers equal, ext52x compiled
+run_check: OK

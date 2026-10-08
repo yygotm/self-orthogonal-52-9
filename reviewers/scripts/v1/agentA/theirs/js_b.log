@@ -1,0 +1,14 @@
+orbits 23 sum sizes 262144
+weighted count of (2 mod 4, min>=18) cosets from author log x orbit sizes: 10997819424
+orbit sizes [1, 8160, 1020, 6120, 6120, 24480, 24480, 24480, 6120, 12240, 16320, 48960, 12240, 16320, 408, 24480, 4080, 12240, 4080, 3060, 6120, 255, 360]
+h count 29376
+{"orbit": 12, "surviving_d18_mine": 42186, "author": 42186, "h_solutions": 0, "sec": 17.4}
+{"orbit": 13, "surviving_d18_mine": 41789, "author": 41789, "h_solutions": 0, "sec": 33.9}
+{"orbit": 14, "surviving_d18_mine": 42553, "author": 42553, "h_solutions": 0, "sec": 25.6}
+{"orbit": 15, "surviving_d18_mine": 41965, "author": 41965, "h_solutions": 0, "sec": 26.4}
+{"orbit": 16, "surviving_d18_mine": 42528, "author": 42528, "h_solutions": 0, "sec": 21.2}
+{"orbit": 17, "surviving_d18_mine": 41730, "author": 41730, "h_solutions": 0, "sec": 24.8}
+{"orbit": 18, "surviving_d18_mine": 41807, "author": 41807, "h_solutions": 0, "sec": 30.0}
+{"orbit": 19, "surviving_d18_mine": 40976, "author": 40976, "h_solutions": 0, "sec": 23.2}
+{"orbit": 20, "surviving_d18_mine": 41230, "author": 41230, "h_solutions": 0, "sec": 17.8}
+{"orbit": 22, "surviving_d18_mine": 41414, "author": 41414, "h_solutions": 0, "sec": 16.4}

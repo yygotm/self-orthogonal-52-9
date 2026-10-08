@@ -1,0 +1,536 @@
+[
+  {
+    "index": 0,
+    "orbit": 0,
+    "free_signs": 40,
+    "binary_dimension": 12,
+    "enumerated": 4096,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4092,
+      "negative": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 0,
+    "orbit": 1,
+    "free_signs": 36,
+    "binary_dimension": 9,
+    "enumerated": 512,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 512
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 0,
+    "orbit": 10,
+    "free_signs": 34,
+    "binary_dimension": 5,
+    "enumerated": 32,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 32
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 0,
+    "free_signs": 38,
+    "binary_dimension": 9,
+    "enumerated": 512,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 510,
+      "negative": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 1,
+    "free_signs": 32,
+    "binary_dimension": 3,
+    "enumerated": 8,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 8
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 2,
+    "free_signs": 28,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 3,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 4,
+    "free_signs": 30,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 5,
+    "free_signs": 34,
+    "binary_dimension": 5,
+    "enumerated": 32,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 32
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 6,
+    "free_signs": 30,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 7,
+    "free_signs": 34,
+    "binary_dimension": 5,
+    "enumerated": 32,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 32
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 8,
+    "free_signs": 30,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 9,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 10,
+    "free_signs": 32,
+    "binary_dimension": 4,
+    "enumerated": 16,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 16
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 11,
+    "free_signs": 30,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 12,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 13,
+    "free_signs": 32,
+    "binary_dimension": 3,
+    "enumerated": 8,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 8
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 14,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 15,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 16,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 17,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 18,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 19,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 20,
+    "free_signs": 32,
+    "binary_dimension": 3,
+    "enumerated": 8,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 8
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 21,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 22,
+    "free_signs": 28,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 23,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 24,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 25,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 26,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 27,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 28,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 29,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 30,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 31,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 32,
+    "free_signs": 30,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 33,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 34,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 35,
+    "free_signs": 28,
+    "binary_dimension": 0,
+    "enumerated": 1,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 1
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 36,
+    "free_signs": 28,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 37,
+    "free_signs": 28,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 38,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 39,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 40,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 41,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 42,
+    "free_signs": 30,
+    "binary_dimension": 2,
+    "enumerated": 4,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 4
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 43,
+    "status": "MODULAR_CONTRADICTION"
+  },
+  {
+    "index": 2,
+    "orbit": 44,
+    "free_signs": 28,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  },
+  {
+    "index": 2,
+    "orbit": 45,
+    "free_signs": 30,
+    "binary_dimension": 1,
+    "enumerated": 2,
+    "valid_nonnegative_integer": 0,
+    "rejected": {
+      "nonintegral": 2
+    },
+    "status": "EXHAUSTED"
+  }
+]

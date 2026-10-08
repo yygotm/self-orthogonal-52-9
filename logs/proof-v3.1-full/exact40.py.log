@@ -1,0 +1,6 @@
+{"deleted": [0, 1, 2, 3], "cubic_dimension": 8, "gauge": 7, "representatives": 2}
+{"deleted": [0, 1, 2, 3], "case": 0, "a": 0, "status": "EXHAUSTED", "binary_dimension": 12, "enumerated": 4096, "valid": 0, "rejected": {"not_binary": 1328, "nonintegral": 2768}}
+{"deleted": [0, 1, 2, 3], "case": 1, "a": 16987894452993024, "status": "EXHAUSTED", "binary_dimension": 12, "enumerated": 4096, "valid": 0, "rejected": {"nonintegral": 4032, "not_binary": 64}}
+{"deleted": [0, 1, 2, 4], "cubic_dimension": 8, "gauge": 7, "representatives": 2}
+{"deleted": [0, 1, 2, 4], "case": 1, "a": 12266779318997259776, "status": "EXHAUSTED", "binary_dimension": 8, "enumerated": 256, "valid": 0, "rejected": {"nonintegral": 256}}
+{"branches": 2, "cases": 4, "enumerated": 8448, "valid": 0}

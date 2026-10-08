@@ -1,0 +1,173 @@
+{
+  "snapshot_date": "2026-10-09",
+  "source_description": "Existing So52 Lean formalization and its historical build records",
+  "external_source_access": "read only",
+  "files": [
+    {
+      "path": "So52.lean",
+      "sha256": "121ee2c2b7665fbe31cc89ce9213a11de361c1ee7afa7cf8227b9ad9a69c6b67",
+      "bytes": 2232,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/EvenSpace.lean",
+      "sha256": "a26199be6f45c4c54260aad37b380dbc4978a4666a2858c6af5a22ac93ce378b",
+      "bytes": 2080,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Fourier.lean",
+      "sha256": "5472f5859a3f6c2bf6b48c718e8466e3f4e06853a48eb6fd48a37e703085f91c",
+      "bytes": 3259,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/FourierBlocks.lean",
+      "sha256": "56df4ad085839d114100f31ba1b2ce6dcb3a15bbbe7f43c095a69e0522fa7066",
+      "bytes": 3383,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/FourierCoefficients.lean",
+      "sha256": "70d7443c38902de1da37eaf294620554138eb3f320128f6c31ef9cfc73b76e43",
+      "bytes": 2469,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Kernel.lean",
+      "sha256": "6a060310c7d5cca4f7b80fd887365822e2219752964cf7c3d178366e75071a1a",
+      "bytes": 9800,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/LowerBound.lean",
+      "sha256": "960ebbc0e663de0869547155c4919a38e4a8b6d5a43e78d58ff0dae5a13c09ea",
+      "bytes": 6201,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Reductions.lean",
+      "sha256": "1556962645432dc9fe1cd74414ff5a32cc7a6fd746262015b36233d37d3fac1d",
+      "bytes": 4119,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Residual.lean",
+      "sha256": "6d3a148a66779b2ebe04578b5e589ba5a5478ebd12ea53e425efae772e63f438",
+      "bytes": 9009,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/ResidualDual.lean",
+      "sha256": "c9820029237eb2e8208cd7471c633f7343bd636b8160a95bf7300af4f9c89227",
+      "bytes": 8240,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/ResidualMoments.lean",
+      "sha256": "0cdd5c1c8d472c42d5ca11fc4ba484ab9cd44e6e8eaa2aff3c72015cbd1c6a5f",
+      "bytes": 5274,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Section4.lean",
+      "sha256": "826e4f928b54b3d25302b5edae726fa736d5fd6c1688b6b3c452299ca5e5f92c",
+      "bytes": 907,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/TripleBits.lean",
+      "sha256": "26f66fb487528f25e68a572e6b0b1e2cdbccb4e038a22f60a0fbb82288960080",
+      "bytes": 2101,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight40.lean",
+      "sha256": "fac8df0f5adbf8b2546485515dec4d21ec04b68835d6d516d9065af6ba22b699",
+      "bytes": 7252,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight40Equality.lean",
+      "sha256": "cc28da0d6265195c965df8f300fa8c9371fed597f561bd6b3973c3d9bc0e5532",
+      "bytes": 5791,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight44.lean",
+      "sha256": "ccda29b9c96ff8298b847e902ebe1441891eb09b0ffcc6cb8c64724d196b38b5",
+      "bytes": 6156,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight48.lean",
+      "sha256": "b454c671d8e0d229c838e612d4e4796b020529baa9c19bdce7b7c2d17f5eebd2",
+      "bytes": 5942,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight48Cosets.lean",
+      "sha256": "d3bfb8c21adddc90a59781463aa1efb3cfc8797be078d38f4cbec2433b5d29f3",
+      "bytes": 6370,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight48Exclusion.lean",
+      "sha256": "5b4ba5257a62a9e618198b6138a9e5ab26b0445d783858301125f04b35336118",
+      "bytes": 9130,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/Weight52.lean",
+      "sha256": "edad69cba7838247c04c54a3dbdac2665c442987a4577d28e33dbe33dbe7793a",
+      "bytes": 2776,
+      "copy_identical": true
+    },
+    {
+      "path": "So52/WeightDistribution.lean",
+      "sha256": "8af787ac836d2f6b3cb4ddacbc25f4fb06b8d2f66c58a0f5cd3fa97e0499e120",
+      "bytes": 1961,
+      "copy_identical": true
+    },
+    {
+      "path": "lean-toolchain",
+      "sha256": "d5edba4e4b8faad9c1baeadb265716d20d03be4d1a2647dc5e35b0c0325bea7b",
+      "bytes": 25,
+      "copy_identical": true
+    },
+    {
+      "path": "lake-manifest.json",
+      "sha256": "98f89b25c3f9e3647e5084d8cf50c78eef723de941de83e34b8e64dde357ef5c",
+      "bytes": 3127,
+      "copy_identical": true
+    },
+    {
+      "path": "logs/lean-build-weight40-equality.log",
+      "source_sha256": "23e7396687fb23202be8cc29f2789235740b3e18202e9a30092a28c598e8c1f1",
+      "sha256": "23e7396687fb23202be8cc29f2789235740b3e18202e9a30092a28c598e8c1f1",
+      "copy_identical": true
+    },
+    {
+      "path": "logs/build-weight40-equality-status.json",
+      "source_sha256": "9a95c5e0fa1f41164cae472d22dc91c53bfdfef4e77ae3b8a86d416a937c45dd",
+      "sha256": "9a95c5e0fa1f41164cae472d22dc91c53bfdfef4e77ae3b8a86d416a937c45dd",
+      "copy_identical": true
+    },
+    {
+      "path": "logs/weight40-equality-source-sha256.json",
+      "source_sha256": "3b8eef44b31c6bbbb1df12e6bb4199b3e7f7f6d23a9dd2e0ccfa642c3c802b5b",
+      "sha256": "b1d88ffe5e5f34cada06482f793dce6e2e3ac9ef87043528fd4dbeb8ad9f5efd",
+      "copy_identical": false
+    },
+    {
+      "path": "logs/source-scan-weight40-equality.json",
+      "source_sha256": "2999779ca16e6af336b43168226d433aeb83f3589e87c425d52d43e7251e6a67",
+      "sha256": "72aeafba8b1ac96de0e99beb4372075513bcd20b9f8f952a98acab62bb1cf2b8",
+      "copy_identical": false
+    }
+  ],
+  "lakefile_adaptation": "Default target changed to So52; unrelated LeanMath example target omitted; dependency pin unchanged.",
+  "build_record_scope": "Historical successful build on 2026-10-08; not a new build of this package.",
+  "subsequent_comment_edit": "The source report records comment-only changes to So52.lean and So52/Weight40Equality.lean on 2026-10-08 at 16:44 JST, after the preserved successful build. No rebuild was recorded for those comment-only changes.",
+  "hash_scope": "Historical build-source hashes are preserved in logs; the files list above records the distributed source snapshot."
+}

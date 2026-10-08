@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "preserved_v2_sha256": "26547a709e1588a76eadcd57cb64f224d2fd39897f142530d7ff7227d3eb903e",
+  "external_C_final_unchanged": true,
+  "copied_sources_checked": 121,
+  "local_links_checked": 359,
+  "missing_links": [],
+  "python_sources_parsed": [
+    "reproduce.py",
+    "direct_scan.py",
+    "verify_evidence.py",
+    "verify_q0_certificate.py"
+  ],
+  "bounded_scan_cases": 14,
+  "bounded_checks_passed": true,
+  "full_scan_run_for_v3": false,
+  "archived_A2_header_arrays_match": 3,
+  "docker_gcc14_image_id": "sha256:9188ac751ca24431dc43dbd142a223c98ea74f01d2858e84d30ba342a0d67844",
+  "note": "Header-array equality was checked for DR and NB_ in all three matrices. This is packaging and bounded validation, not a full proof rerun."
+}

@@ -1,0 +1,18 @@
+docker: Error response from daemon: the working directory 'C:/Program Files/Git/work' is invalid, it needs to be an absolute path
+
+Run 'docker run --help' for more information
+/usr/bin/bash: line 7: bc: command not found
+T=22 secs 
+docker: Error response from daemon: the working directory 'C:/Program Files/Git/work' is invalid, it needs to be an absolute path
+
+Run 'docker run --help' for more information
+/usr/bin/bash: line 7: bc: command not found
+T=20 secs 
+T=22 secs=0.7896542 {"n":52,"k":8,"quotient_dimension":36,"threshold":22,"start":0,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268451840,"seen2":268419072,"hit0":0,"hit2":0}
+T=20 secs=1.2444126 {"n":52,"k":8,"quotient_dimension":36,"threshold":20,"start":0,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268451840,"seen2":268419072,"hit0":859828,"hit2":0}
+start=21474836480 T=22 secs=1.5026578 {"n":52,"k":8,"quotient_dimension":36,"threshold":22,"start":21474836480,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268435456,"seen2":268435456,"hit0":0,"hit2":0}
+start=21474836480 T=20 secs=2.7355988 {"n":52,"k":8,"quotient_dimension":36,"threshold":20,"start":21474836480,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268435456,"seen2":268435456,"hit0":891014,"hit2":0}
+start=47244640256 T=22 secs=2.0346108 {"n":52,"k":8,"quotient_dimension":36,"threshold":22,"start":47244640256,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268419072,"seen2":268451840,"hit0":0,"hit2":0}
+start=47244640256 T=20 secs=3.6819292 {"n":52,"k":8,"quotient_dimension":36,"threshold":20,"start":47244640256,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268419072,"seen2":268451840,"hit0":34368601,"hit2":0}
+start=67645734912 T=22 secs=0.9044588 {"n":52,"k":8,"quotient_dimension":36,"threshold":22,"start":67645734912,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268419072,"seen2":268451840,"hit0":0,"hit2":0}
+start=67645734912 T=20 secs=2.0657734 {"n":52,"k":8,"quotient_dimension":36,"threshold":20,"start":67645734912,"count":1073741824,"total":68719476736,"visited":1073741824,"seen0":268419072,"seen2":268451840,"hit0":33508963,"hit2":0}

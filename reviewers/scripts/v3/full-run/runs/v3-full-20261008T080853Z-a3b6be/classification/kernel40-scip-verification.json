@@ -1,0 +1,65 @@
+[
+  {
+    "branch": "plane",
+    "solver": "SCIP 10.0.0 [LP solver: SoPlex 8.0.0]",
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 36699
+  },
+  {
+    "branch": "independent",
+    "case": 0,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 876
+  },
+  {
+    "branch": "independent",
+    "case": 1,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 21353
+  },
+  {
+    "branch": "independent",
+    "case": 2,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 5451
+  },
+  {
+    "branch": "independent",
+    "case": 3,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 1209
+  },
+  {
+    "branch": "independent",
+    "case": 4,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 3091
+  },
+  {
+    "branch": "independent",
+    "case": 5,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 1528
+  },
+  {
+    "branch": "independent",
+    "case": 6,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 1426
+  },
+  {
+    "branch": "independent",
+    "case": 7,
+    "status": 2,
+    "INFEASIBLE": true,
+    "wall_ms": 832
+  }
+]

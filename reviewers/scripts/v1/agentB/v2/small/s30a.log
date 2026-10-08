@@ -1,0 +1,5 @@
+{"n": 30, "seed": 3, "zero_col": 0, "d(D)": 12, "wd": {"0": 1, "16": 135, "12": 90, "20": 30}, "T": {"2": {"cosets_c_0mod4": [4095, 4095, 4005], "cosets_c_2mod4": [4096, 4096, 4096], "ext52x_accepted": 8191}, "4": {"cosets_c_0mod4": [4095, 4005, 4005], "cosets_c_2mod4": [4096, 4096, 2062], "ext52x_accepted": 8191}, "6": {"cosets_c_0mod4": [4005, 4005, 0], "cosets_c_2mod4": [4096, 2062, 2062], "ext52x_accepted": 8101}, "8": {"cosets_c_0mod4": [4005, 0, 0], "cosets_c_2mod4": [2062, 2062, 0], "ext52x_accepted": 6067}, "10": {"cosets_c_0mod4": [0, 0, 0], "cosets_c_2mod4": [2062, 0, 0], "ext52x_accepted": 2062}}}
+
+real	1m41.525s
+user	0m0.031s
+sys	0m0.061s

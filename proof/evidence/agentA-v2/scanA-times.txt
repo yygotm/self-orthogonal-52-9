@@ -1,0 +1,4 @@
+D1 T=22 302s
+D2 T=22 283s
+D0 T=22 279s
+D0 T=20 stopped at 15:32:36 by A2 (estimated >10 min)

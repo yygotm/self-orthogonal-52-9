@@ -1,0 +1,9 @@
+D0 weight distribution {0: 1, 24: 204, 32: 51} support 
+D0 nonzero coordinates 51 (coordinate 51 is the zero column)
+triples 17 partition True
+dim(E cap D0perp)= 26
+quotient dim 18
+orbits under <shift, x->2x> 695
+covered 2mod4 cosets 17180000256 == 2^34+2^17? True
+cosets with min weight >=18 (all, unreduced count) 10997819424
+cosets with min weight >=22 found 0 sec 74.5

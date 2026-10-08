@@ -1,0 +1,19 @@
+== (a) representatives
+0 n 52 k 8 rank_ok True SO True z 1 b 0 mult [(1, 51)] wd [(0, 1), (24, 204), (32, 51)]
+1 n 52 k 8 rank_ok True SO True z 0 b 0 mult [(1, 52)] wd [(0, 1), (24, 172), (28, 32), (32, 51)]
+2 n 52 k 8 rank_ok True SO True z 0 b 1 mult [(1, 50), (2, 1)] wd [(0, 1), (24, 174), (28, 30), (32, 49), (36, 2)]
+== (b) certificate via (1-x)^w (1+x)^(52-w)
+{0: 28600, 24: -72, 28: -72, 32: -72, 36: -584, 40: -2120, 44: -5192, 48: -10312, 52: -17992}
+28600-72*511 = -8192
+F(20)= 440
+== (c) relative links
+PROOF.md links 74 missing [] absolute []
+README.md links 20 missing [] absolute []
+V3-CHANGES.md links 155 missing [] absolute []
+evidence/INDEX.md links 111 missing [] absolute []
+references/SOURCES.md links 1 missing [] absolute []
+PROOF backticked files missing at root: ['classes16.py', 'th_equiv.py', 'verify_A7_count.py']
+== (d) headers
+0 bundled==mine True
+1 bundled==mine True
+2 bundled==mine True

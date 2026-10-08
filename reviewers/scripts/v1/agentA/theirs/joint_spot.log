@@ -1,0 +1,6 @@
+orbits 23 sum sizes 262144
+weighted count of (2 mod 4, min>=18) cosets from author log x orbit sizes: 10997819424
+orbit sizes [1, 8160, 1020, 6120, 6120, 24480, 24480, 24480, 6120, 12240, 16320, 48960, 12240, 16320, 408, 24480, 4080, 12240, 4080, 3060, 6120, 255, 360]
+h count 29376
+{"orbit": 21, "surviving_d18_mine": 41792, "author": 41792, "h_solutions": 0, "sec": 13.4}
+{"orbit": 0, "surviving_d18_mine": 59160, "author": 59160, "h_solutions": 0, "sec": 24.7}

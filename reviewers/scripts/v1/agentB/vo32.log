@@ -1,0 +1,24 @@
+{"case": "32", "seventh_rows": 10752, "eighth_rows": 24, "gen_s": 2.8}
+{"eighth_rows_equiv_to_rep": 24, "bad": 0, "t": 243.6}
+{"tested": 500, "bad": 0, "t": 245.4}
+{"tested": 1000, "bad": 0, "t": 246.8}
+{"tested": 1500, "bad": 0, "t": 247.5}
+{"tested": 2000, "bad": 0, "t": 248.3}
+{"tested": 2500, "bad": 0, "t": 249.0}
+{"tested": 3000, "bad": 0, "t": 249.7}
+{"tested": 3500, "bad": 0, "t": 250.4}
+{"tested": 4000, "bad": 0, "t": 251.1}
+{"tested": 4500, "bad": 0, "t": 251.8}
+{"tested": 5000, "bad": 0, "t": 252.8}
+{"tested": 5500, "bad": 0, "t": 253.6}
+{"tested": 6000, "bad": 0, "t": 254.3}
+{"tested": 6500, "bad": 0, "t": 255.1}
+{"tested": 7000, "bad": 0, "t": 255.9}
+{"tested": 7500, "bad": 0, "t": 256.5}
+{"tested": 8000, "bad": 0, "t": 257.0}
+{"tested": 8500, "bad": 0, "t": 257.9}
+{"tested": 9000, "bad": 0, "t": 259.3}
+{"tested": 9500, "bad": 0, "t": 260.2}
+{"tested": 10000, "bad": 0, "t": 260.5}
+{"tested": 10500, "bad": 0, "t": 260.7}
+{"seventh_tested": 10752, "seventh_not_equiv": 0, "t": 260.9}

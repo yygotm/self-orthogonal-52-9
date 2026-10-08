@@ -1,0 +1,4 @@
+../so52/D-representative-0.txt seed 202 cost0 states 2104 distinct invariants 3 time 76s
+  zero 1 b 0 wd ((0, 1), (24, 204), (32, 51)) mult Counter({1: 51})
+  zero 0 b 0 wd ((0, 1), (24, 172), (28, 32), (32, 51)) mult Counter({1: 52})
+  zero 0 b 1 wd ((0, 1), (24, 174), (28, 30), (32, 49), (36, 2)) mult Counter({1: 50, 2: 1})

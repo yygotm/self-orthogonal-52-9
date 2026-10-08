@@ -1,0 +1,33 @@
+  [4,2,>=1] any: m=1, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+  [4,2,>=1] any: m=2, 1 residuals, 2 lift classes (per residual), 3 classes so far, 0.0s
+[4,2,>=1] any: 3 classes
+  [6,3,>=2] any: m=2, 3 residuals, 8 lift classes (per residual), 7 classes so far, 0.0s
+  [3,2,>=2] any: m=2, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[3,2,>=2] any: 1 classes
+  [6,3,>=2] any: m=3, 1 residuals, 1 lift classes (per residual), 8 classes so far, 0.0s
+[2,2,>=2] any: 0 classes
+[6,3,>=2] any: 8 classes
+  [9,4,>=3] any: m=3, 8 residuals, 30 lift classes (per residual), 19 classes so far, 0.1s
+  [3,2,>=1] any: m=1, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+  [3,2,>=1] any: m=2, 1 residuals, 1 lift classes (per residual), 2 classes so far, 0.0s
+[3,2,>=1] any: 2 classes
+  [5,3,>=2] any: m=2, 2 residuals, 4 lift classes (per residual), 3 classes so far, 0.0s
+[5,3,>=2] any: 3 classes
+  [9,4,>=3] any: m=4, 3 residuals, 6 lift classes (per residual), 23 classes so far, 0.0s
+[4,3,>=3] any: 0 classes
+[3,3,>=3] any: 0 classes
+[9,4,>=3] any: 23 classes
+  [15,5,>=6] any: m=6, 23 residuals, 324 lift classes (per residual), 91 classes so far, 11.8s
+  [2,2,>=1] any: m=1, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[2,2,>=1] any: 1 classes
+  [4,3,>=2] any: m=2, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[4,3,>=2] any: 1 classes
+  [8,4,>=4] any: m=4, 1 residuals, 1 lift classes (per residual), 1 classes so far, 0.0s
+[8,4,>=4] any: 1 classes
+  [15,5,>=6] any: m=7, 1 residuals, 1 lift classes (per residual), 92 classes so far, 0.1s
+[3,3,>=2] any: 0 classes
+[7,4,>=4] any: 0 classes
+[6,4,>=5] any: 0 classes
+[5,4,>=5] any: 0 classes
+[4,4,>=6] any: 0 classes
+[15,5,>=6] any: 92 classes

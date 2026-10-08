@@ -1,0 +1,5 @@
+k=8 n=52 {24,32}: A24,A32,b = (Fraction(188, 1), Fraction(67, 1), Fraction(4, 1))
+project from point of multiplicity 2: k=7 n=50: A24,A32,b' = (Fraction(108, 1), Fraction(19, 1), Fraction(1, 1))
+project from point of multiplicity 3: k=7 n=49: A24,A32,b' = (Fraction(116, 1), Fraction(11, 1), Fraction(-5, 1))
+D2: zero cols 0 repeated columns {99: 2}
+D2 projected: n'=50, sum w = 3200 (expect 3200), b' direct=1, b' from 2nd moment=1
